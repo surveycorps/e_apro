@@ -1,4 +1,4 @@
-update=Fri 19 Sep 2014 06:26:30 PM EDT
+update=Fri 19 Sep 2014 12:33:59 AM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -61,3 +61,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=/home/nick/Documents/senior_design/audio/audio
