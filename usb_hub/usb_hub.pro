@@ -1,4 +1,4 @@
-update=Sun 14 Sep 2014 02:18:37 AM EDT
+update=Sat 20 Sep 2014 09:21:28 PM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -21,11 +21,6 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [eeschema]
 version=1
 LibDir=
@@ -61,5 +56,10 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=usb_hub
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
 [general]
 version=1
