@@ -1,4 +1,4 @@
-update=Fri 19 Sep 2014 06:26:30 PM EDT
+update=Sun 21 Sep 2014 04:53:59 PM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -29,7 +29,7 @@ ModuleOutlineThickness=0.150000000000
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=../libs/library
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,3 +61,4 @@ LibName27=opto
 LibName28=atmel
 LibName29=contrib
 LibName30=valves
+LibName31=/home/nick/Documents/senior_design/libs/library/ab2_usb
