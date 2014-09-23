@@ -25,8 +25,8 @@
             124850 -91140)
     )
     (plane XGND (polygon In1.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
-    (plane XGND (polygon F.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
-    (via "Via[0-1]_889:635_um" "Via[0-1]_604:350_um")
+    (plane +5VA (polygon F.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
+    (via "Via[0-1]_889:635_um" "Via[0-1]_584.2:330.2_um")
     (rule
       (width 254)
       (clearance 254.1)
@@ -102,7 +102,7 @@
       (place R11 153850 -94140 back 180 (PN 4K7))
     )
     (component Pin_Headers:Pin_Header_Straight_2x01
-      (place P1 134600 -115640 front 90 (PN CONN_02X01))
+      (place P1 134600 -115640 front 270 (PN CONN_02X01))
       (place P3 166100 -115640 front 270 (PN CONN_02X01))
       (place P4 143100 -115640 front 270 (PN CONN_02X01))
     )
@@ -499,9 +499,9 @@
       (shape (circle In1.Cu 889))
       (attach off)
     )
-    (padstack "Via[0-1]_604:350_um"
-      (shape (circle F.Cu 604))
-      (shape (circle In1.Cu 604))
+    (padstack "Via[0-1]_584.2:330.2_um"
+      (shape (circle F.Cu 584.2))
+      (shape (circle In1.Cu 584.2))
       (attach off)
     )
   )
@@ -676,7 +676,7 @@
     (net "Net-(U5-Pad13)"
       (pins U5-13)
     )
-    (class kicad_default
+    (class kicad_default ""
       (circuit
         (use_via Via[0-1]_889:635_um)
       )
@@ -685,7 +685,7 @@
         (clearance 254.1)
       )
     )
-    (class normal "" EN L_IN "Net-(C1-Pad2)" "Net-(C10-Pad1)" "Net-(C10-Pad2)"
+    (class normal EN L_IN "Net-(C1-Pad2)" "Net-(C10-Pad1)" "Net-(C10-Pad2)"
       "Net-(C11-Pad1)" "Net-(C12-Pad1)" "Net-(C13-Pad1)" "Net-(C14-Pad1)"
       "Net-(C15-Pad1)" "Net-(C16-Pad1)" "Net-(C2-Pad2)" "Net-(C20-Pad1)" "Net-(C21-Pad1)"
       "Net-(C22-Pad1)" "Net-(C23-Pad1)" "Net-(C28-Pad1)" "Net-(C29-Pad1)"
@@ -694,24 +694,22 @@
       "Net-(D1-Pad2)" "Net-(D2-Pad2)" "Net-(JP3-Pad1)" "Net-(JP4-Pad2)" "Net-(P1-Pad1)"
       "Net-(P1-Pad2)" "Net-(R1-Pad1)" "Net-(R2-Pad1)" "Net-(R5-Pad1)" "Net-(R5-Pad2)"
       "Net-(R6-Pad1)" "Net-(R6-Pad2)" "Net-(U1-Pad14)" "Net-(U1-Pad17)" "Net-(U2-Pad5)"
-      "Net-(U3-Pad2)" "Net-(U3-Pad5)" "Net-(U4-Pad2)" "Net-(U5-Pad12)" "Net-(U5-Pad13)"
-      "Net-(U5-Pad15)" "Net-(U5-Pad17)" "Net-(U5-Pad2)" "Net-(U5-Pad3)" "Net-(U6-Pad12)"
-      "Net-(U6-Pad13)" "Net-(U6-Pad15)" "Net-(U6-Pad17)" "Net-(U6-Pad3)" R_IN
-      XGAIN XOUT
+      "Net-(U3-Pad2)" "Net-(U4-Pad2)" "Net-(U5-Pad12)" "Net-(U5-Pad13)" "Net-(U5-Pad15)"
+      "Net-(U5-Pad17)" "Net-(U5-Pad3)" R_IN XGAIN XGND XOUT
       (circuit
-        (use_via Via[0-1]_604:350_um)
+        (use_via Via[0-1]_584.2:330.2_um)
       )
       (rule
         (width 180)
         (clearance 152.5)
       )
     )
-    (class power +5VA XGND
+    (class power +5VA
       (circuit
         (use_via Via[0-1]_889:635_um)
       )
       (rule
-        (width 300)
+        (width 500)
         (clearance 152.5)
       )
     )
