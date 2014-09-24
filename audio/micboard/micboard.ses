@@ -1,0 +1,139 @@
+
+(session micboard.ses
+  (base_design micboard.dsn)
+  (placement
+    (resolution um 10)
+    (component "SMD_Packages:SMD-0603"
+      (place C1 1570000 -1124000 back 270)
+      (place R1 1519000 -1124000 back 270)
+    )
+    (component Pin_Headers:Pin_Header_Straight_1x04
+      (place P1 1544000 -1086000 back 180)
+    )
+    (component MIC:MIC
+      (place U1 1545000 -1122000 front 270)
+    )
+  )
+  (was_is
+  )
+  (routes 
+    (resolution um 10)
+    (parser
+      (host_cad "KiCad's Pcbnew")
+      (host_version "(2014-09-08 BZR 5123)-product")
+    )
+    (library_out 
+      (padstack "Via[0-1]_584.2:330.2_um"
+        (shape
+          (circle F.Cu 5842 0 0)
+        )
+        (shape
+          (circle In1.Cu 5842 0 0)
+        )
+        (attach off)
+      )
+    )
+    (network_out 
+      (net "Net-(C1-Pad1)"
+        (wire
+          (path In1.Cu 1524
+            1570000 -1131620
+            1570000 -1126156
+          )
+        )
+        (wire
+          (path F.Cu 1524
+            1528800 -1134400
+            1528800 -1127011
+          )
+        )
+        (wire
+          (path In1.Cu 1524
+            1539569 -1124816
+            1568660 -1124816
+            1570000 -1126156
+          )
+        )
+        (via "Via[0-1]_584.2:330.2_um" 1539569 -1124816
+        )
+        (wire
+          (path F.Cu 1524
+            1528800 -1127011
+            1537374 -1127011
+            1539569 -1124816
+          )
+        )
+      )
+      (net "Net-(C1-Pad2)"
+        (wire
+          (path In1.Cu 1524
+            1519000 -1131620
+            1519000 -1126156
+          )
+        )
+        (wire
+          (path In1.Cu 1524
+            1519000 -1126156
+            1521482 -1126156
+            1531258 -1116380
+            1570000 -1116380
+          )
+        )
+      )
+      (net +5V
+        (wire
+          (path F.Cu 1524
+            1505900 -1086000
+            1516825 -1086000
+          )
+        )
+        (wire
+          (path F.Cu 1524
+            1561200 -1109600
+            1561200 -1102211
+          )
+        )
+        (wire
+          (path F.Cu 1524
+            1561200 -1102211
+            1530305 -1102211
+            1516825 -1088731
+            1516825 -1086000
+          )
+        )
+      )
+      (net GAIN
+        (wire
+          (path F.Cu 1524
+            1545000 -1134400
+            1545000 -1127011
+          )
+        )
+        (wire
+          (path F.Cu 1524
+            1556700 -1086000
+            1567625 -1086000
+          )
+        )
+        (wire
+          (path F.Cu 1524
+            1567625 -1086000
+            1569590 -1087965
+            1569590 -1115830
+            1558409 -1127011
+            1545000 -1127011
+          )
+        )
+      )
+      (net OUT
+        (wire
+          (path F.Cu 1524
+            1561200 -1134400
+            1582100 -1113500
+            1582100 -1086000
+          )
+        )
+      )
+    )
+  )
+)

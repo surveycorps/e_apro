@@ -1,0 +1,144 @@
+(pcb /home/nick/Documents/senior_design/audio/micboard/micboard.dsn
+  (parser
+    (string_quote ")
+    (space_in_quoted_tokens on)
+    (host_cad "KiCad's Pcbnew")
+    (host_version "(2014-09-08 BZR 5123)-product")
+  )
+  (resolution um 10)
+  (unit um)
+  (structure
+    (layer F.Cu
+      (type signal)
+      (property
+        (index 0)
+      )
+    )
+    (layer In1.Cu
+      (type signal)
+      (property
+        (index 1)
+      )
+    )
+    (boundary
+      (path pcb 0  149000 -107000  149000 -114500  160000 -114500  160000 -107000
+            149000 -107000)
+    )
+    (plane GND (polygon F.Cu 0  160000 -114500  149000 -114500  149000 -107000  160000 -107000))
+    (plane GND (polygon In1.Cu 0  160000 -114500  149000 -114500  149000 -107000  160000 -107000))
+    (keepout "" (polygon signal 0  149000 -107100  149000 -107100))
+    (via "Via[0-1]_584.2:330.2_um")
+    (rule
+      (width 152.4)
+      (clearance 152.5)
+      (clearance 152.5 (type default_smd))
+      (clearance 38.1 (type smd_smd))
+    )
+  )
+  (placement
+    (component "SMD_Packages:SMD-0603"
+      (place C1 157000 -112400 back 270 (PN 0.47uF))
+      (place R1 151900 -112400 back 270 (PN 4K7))
+    )
+    (component Pin_Headers:Pin_Header_Straight_1x04
+      (place P1 154400 -108600 back 180 (PN CONN_01X04))
+    )
+    (component MIC:MIC
+      (place U1 154500 -112200 front 270 (PN MIC))
+    )
+  )
+  (library
+    (image "SMD_Packages:SMD-0603"
+      (outline (path signal 127  -1143 635  1143 635))
+      (outline (path signal 127  1143 635  1143 -635))
+      (outline (path signal 127  1143 -635  -1143 -635))
+      (outline (path signal 127  -1143 -635  -1143 635))
+      (pin Rect[T]Pad_635x1143_um 1 -762 0)
+      (pin Rect[T]Pad_635x1143_um 2 762 0)
+    )
+    (image Pin_Headers:Pin_Header_Straight_1x04
+      (outline (path signal 150  -2540 -1270  5080 -1270))
+      (outline (path signal 150  -2540 1270  5080 1270))
+      (outline (path signal 150  -5080 1270  -2540 1270))
+      (outline (path signal 150  5080 -1270  5080 1270))
+      (outline (path signal 150  -2540 1270  -2540 -1270))
+      (outline (path signal 150  -5080 1270  -5080 -1270))
+      (outline (path signal 150  -5080 -1270  -2540 -1270))
+      (pin Rect[A]Pad_1727.2x2032_um 1 -3810 0)
+      (pin Oval[A]Pad_1727.2x2032_um 2 -1270 0)
+      (pin Oval[A]Pad_1727.2x2032_um 3 1270 0)
+      (pin Oval[A]Pad_1727.2x2032_um 4 3810 0)
+    )
+    (image MIC:MIC
+      (outline (path signal 150  400 2100  392.658 2053.65  371.353 2011.83  338.168 1978.65
+            296.353 1957.34  250 1950  203.647 1957.34  161.832 1978.65
+            128.647 2011.83  107.342 2053.65  100 2100  107.342 2146.35
+            128.647 2188.17  161.832 2221.35  203.647 2242.66  250 2250
+            296.353 2242.66  338.168 2221.35  371.353 2188.17  392.658 2146.35))
+      (pin Rect[T]Pad_1020x1220_um 1 1240 1620)
+      (pin Rect[T]Pad_1020x1220_um 2 1240 0)
+      (pin Rect[T]Pad_1020x1220_um 3 1240 -1620)
+      (pin Rect[T]Pad_1020x1220_um 4 -1240 -1620)
+      (pin Rect[T]Pad_1020x1220_um 5 -1240 0)
+      (pin Rect[T]Pad_1020x1220_um 6 -1240 1620)
+    )
+    (padstack Oval[A]Pad_1727.2x2032_um
+      (shape (path F.Cu 1727.2  0 -152.4  0 152.4))
+      (shape (path In1.Cu 1727.2  0 -152.4  0 152.4))
+      (attach off)
+    )
+    (padstack Rect[T]Pad_635x1143_um
+      (shape (rect F.Cu -317.5 -571.5 317.5 571.5))
+      (attach off)
+    )
+    (padstack Rect[T]Pad_1020x1220_um
+      (shape (rect F.Cu -510 -610 510 610))
+      (attach off)
+    )
+    (padstack Rect[A]Pad_1727.2x2032_um
+      (shape (rect F.Cu -863.6 -1016 863.6 1016))
+      (shape (rect In1.Cu -863.6 -1016 863.6 1016))
+      (attach off)
+    )
+    (padstack "Via[0-1]_584.2:330.2_um"
+      (shape (circle F.Cu 584.2))
+      (shape (circle In1.Cu 584.2))
+      (attach off)
+    )
+  )
+  (network
+    (net "Net-(C1-Pad1)"
+      (pins C1-1 U1-3)
+    )
+    (net "Net-(C1-Pad2)"
+      (pins C1-2 R1-1)
+    )
+    (net +5V
+      (pins P1-1 U1-6)
+    )
+    (net GND
+      (pins P1-2 R1-2 U1-4)
+    )
+    (net GAIN
+      (pins P1-3 U1-2)
+    )
+    (net OUT
+      (pins P1-4 U1-1)
+    )
+    (net "Net-(U1-Pad5)"
+      (pins U1-5)
+    )
+    (class kicad_default "" +5V GAIN GND "Net-(C1-Pad1)" "Net-(C1-Pad2)" "Net-(U1-Pad5)"
+      OUT
+      (circuit
+        (use_via Via[0-1]_584.2:330.2_um)
+      )
+      (rule
+        (width 152.4)
+        (clearance 152.5)
+      )
+    )
+  )
+  (wiring
+  )
+)
