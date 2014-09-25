@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/muniza/kicad/sd/usb_hub/usb_hub.sch)
-    (date "Sun 21 Sep 2014 04:44:45 PM EDT")
+    (date "Wed 24 Sep 2014 12:25:53 AM EDT")
     (tool "Eeschema (2014-09-06 BZR 5115)-product"))
   (components
     (comp (ref U3)
@@ -863,18 +863,13 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 5414E929)))
   (libparts
-    (libpart (lib device) (part C)
-      (description "Condensateur non polarise")
-      (footprints
-        (fp SM*)
-        (fp C?)
-        (fp C1-1))
+    (libpart (lib device) (part FUSE)
       (fields
-        (field (name Reference) C)
-        (field (name Value) C))
+        (field (name Reference) F)
+        (field (name Value) FUSE))
       (pins
-        (pin (num 1) (name ~) (type passive))
-        (pin (num 2) (name ~) (type passive))))
+        (pin (num 1) (name ~) (type input))
+        (pin (num 2) (name ~) (type input))))
     (libpart (lib device) (part BATTERY)
       (fields
         (field (name Reference) BT)
@@ -882,32 +877,6 @@
       (pins
         (pin (num 1) (name +) (type passive))
         (pin (num 2) (name -) (type passive))))
-    (libpart (lib device) (part Csmall)
-      (footprints
-        (fp SM*)
-        (fp C?)
-        (fp C1-1))
-      (fields
-        (field (name Reference) C)
-        (field (name Value) Csmall))
-      (pins
-        (pin (num 1) (name ~) (type passive))
-        (pin (num 2) (name ~) (type passive))))
-    (libpart (lib device) (part LED)
-      (footprints
-        (fp LED-3MM)
-        (fp LED-5MM)
-        (fp LED-10MM)
-        (fp LED-0603)
-        (fp LED-0805)
-        (fp LED-1206)
-        (fp LEDV))
-      (fields
-        (field (name Reference) D)
-        (field (name Value) LED))
-      (pins
-        (pin (num 1) (name A) (type passive))
-        (pin (num 2) (name K) (type passive))))
     (libpart (lib device) (part NPN)
       (docs transistors/bipolar/*.*)
       (fields
@@ -938,13 +907,44 @@
       (pins
         (pin (num 1) (name 1) (type passive))
         (pin (num 2) (name 2) (type passive))))
-    (libpart (lib device) (part FUSE)
+    (libpart (lib device) (part Csmall)
+      (footprints
+        (fp SM*)
+        (fp C?)
+        (fp C1-1))
       (fields
-        (field (name Reference) F)
-        (field (name Value) FUSE))
+        (field (name Reference) C)
+        (field (name Value) Csmall))
       (pins
-        (pin (num 1) (name ~) (type input))
-        (pin (num 2) (name ~) (type input))))
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
+    (libpart (lib device) (part LED)
+      (footprints
+        (fp LED-3MM)
+        (fp LED-5MM)
+        (fp LED-10MM)
+        (fp LED-0603)
+        (fp LED-0805)
+        (fp LED-1206)
+        (fp LEDV))
+      (fields
+        (field (name Reference) D)
+        (field (name Value) LED))
+      (pins
+        (pin (num 1) (name A) (type passive))
+        (pin (num 2) (name K) (type passive))))
+    (libpart (lib device) (part C)
+      (description "Condensateur non polarise")
+      (footprints
+        (fp SM*)
+        (fp C?)
+        (fp C1-1))
+      (fields
+        (field (name Reference) C)
+        (field (name Value) C))
+      (pins
+        (pin (num 1) (name ~) (type passive))
+        (pin (num 2) (name ~) (type passive))))
     (libpart (lib usb_hub) (part FERRITE)
       (fields
         (field (name Reference) L)
@@ -1088,7 +1088,7 @@
     (library (logical device)
       (uri /usr/local/share/kicad/library/device.lib))
     (library (logical usb_hub)
-      (uri usb_hub.lib)))
+      (uri /home/muniza/kicad/sd/usb_hub/usb_hub.lib)))
   (nets
     (net (code 1) (name VCC)
       (node (ref F1) (pin 2))
