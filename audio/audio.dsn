@@ -26,7 +26,7 @@
     )
     (plane XGND (polygon In1.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
     (plane +5VA (polygon F.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
-    (via "Via[0-1]_533.4:381_um" "Via[0-1]_889:635_um")
+    (via "Via[0-1]_635:381_um" "Via[0-1]_889:635_um")
     (rule
       (width 152.4)
       (clearance 152.5)
@@ -499,9 +499,9 @@
       (shape (rect F.Cu -999.49 -224.79 999.49 224.79))
       (attach off)
     )
-    (padstack "Via[0-1]_533.4:381_um"
-      (shape (circle F.Cu 533.4))
-      (shape (circle In1.Cu 533.4))
+    (padstack "Via[0-1]_635:381_um"
+      (shape (circle F.Cu 635))
+      (shape (circle In1.Cu 635))
       (attach off)
     )
     (padstack "Via[0-1]_889:635_um"
@@ -683,7 +683,7 @@
     )
     (class kicad_default ""
       (circuit
-        (use_via Via[0-1]_533.4:381_um)
+        (use_via Via[0-1]_635:381_um)
       )
       (rule
         (width 152.4)
@@ -702,7 +702,7 @@
       "Net-(U3-Pad2)" "Net-(U4-Pad2)" "Net-(U5-Pad12)" "Net-(U5-Pad13)" "Net-(U5-Pad15)"
       "Net-(U5-Pad17)" "Net-(U5-Pad3)" R_IN XGAIN XGND XOUT
       (circuit
-        (use_via Via[0-1]_533.4:381_um)
+        (use_via Via[0-1]_635:381_um)
       )
       (rule
         (width 180)
