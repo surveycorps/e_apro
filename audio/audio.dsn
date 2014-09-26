@@ -26,12 +26,12 @@
     )
     (plane XGND (polygon In1.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
     (plane +5VA (polygon F.Cu 0  176850 -117140  124850 -117140  124850 -91140  176850 -91140))
-    (via "Via[0-1]_889:635_um" "Via[0-1]_584.2:330.2_um")
+    (via "Via[0-1]_533.4:381_um" "Via[0-1]_889:635_um")
     (rule
-      (width 254)
-      (clearance 254.1)
-      (clearance 254.1 (type default_smd))
-      (clearance 63.5 (type smd_smd))
+      (width 152.4)
+      (clearance 152.5)
+      (clearance 152.5 (type default_smd))
+      (clearance 38.1 (type smd_smd))
     )
   )
   (placement
@@ -130,6 +130,9 @@
     )
     (component MIC:MIC
       (place U2 165350 -93640 front 270 (PN MIC))
+    )
+    (component MIC:LOGO
+      (place G*** 150850 -104140 back 180 (PN LOGO))
     )
     (component MIC:QFN20
       (place U5 155150 -104240 front 270 (PN NAU8223))
@@ -365,6 +368,8 @@
       (pin Rect[T]Pad_1020x1220_um 5 -1240 0)
       (pin Rect[T]Pad_1020x1220_um 6 -1240 1620)
     )
+    (image MIC:LOGO
+    )
     (image MIC:QFN20
       (outline (path signal 150  -1600 2000  2000 2000))
       (outline (path signal 150  -2000 1600  -2000 -2000))
@@ -392,15 +397,15 @@
       (pin Rect[T]Pad_320x750_um 19 -500 1800)
       (pin Rect[T]Pad_320x750_um 20 -1000 1800)
       (pin Rect[T]Pad_2000x2000_um 21 0 0)
-      (pin Round[A]Pad_609.6_um 21@1 0 762)
-      (pin Round[A]Pad_609.6_um 21@2 0 -762)
-      (pin Round[A]Pad_609.6_um 21@3 762 0)
-      (pin Round[A]Pad_609.6_um 21@4 -762 0)
-      (pin Round[A]Pad_609.6_um 21@5 762 -762)
-      (pin Round[A]Pad_609.6_um 21@6 762 762)
-      (pin Round[A]Pad_609.6_um 21@7 -762 762)
-      (pin Round[A]Pad_609.6_um 21@8 0 0)
-      (pin Round[A]Pad_609.6_um 21@9 -762 -762)
+      (pin Round[A]Pad_533.4_um 21@1 0 762)
+      (pin Round[A]Pad_533.4_um 21@2 0 -762)
+      (pin Round[A]Pad_533.4_um 21@3 762 0)
+      (pin Round[A]Pad_533.4_um 21@4 -762 0)
+      (pin Round[A]Pad_533.4_um 21@5 762 -762)
+      (pin Round[A]Pad_533.4_um 21@6 762 762)
+      (pin Round[A]Pad_533.4_um 21@7 -762 762)
+      (pin Round[A]Pad_533.4_um 21@8 0 0)
+      (pin Round[A]Pad_533.4_um 21@9 -762 -762)
     )
     (padstack Round[A]Pad_1700_um
       (shape (circle F.Cu 1700))
@@ -412,9 +417,9 @@
       (shape (circle In1.Cu 4000))
       (attach off)
     )
-    (padstack Round[A]Pad_609.6_um
-      (shape (circle F.Cu 609.6))
-      (shape (circle In1.Cu 609.6))
+    (padstack Round[A]Pad_533.4_um
+      (shape (circle F.Cu 533.4))
+      (shape (circle In1.Cu 533.4))
       (attach off)
     )
     (padstack Oval[A]Pad_1506.22x3014.98_um
@@ -494,14 +499,14 @@
       (shape (rect F.Cu -999.49 -224.79 999.49 224.79))
       (attach off)
     )
+    (padstack "Via[0-1]_533.4:381_um"
+      (shape (circle F.Cu 533.4))
+      (shape (circle In1.Cu 533.4))
+      (attach off)
+    )
     (padstack "Via[0-1]_889:635_um"
       (shape (circle F.Cu 889))
       (shape (circle In1.Cu 889))
-      (attach off)
-    )
-    (padstack "Via[0-1]_584.2:330.2_um"
-      (shape (circle F.Cu 584.2))
-      (shape (circle In1.Cu 584.2))
       (attach off)
     )
   )
@@ -678,11 +683,11 @@
     )
     (class kicad_default ""
       (circuit
-        (use_via Via[0-1]_889:635_um)
+        (use_via Via[0-1]_533.4:381_um)
       )
       (rule
-        (width 254)
-        (clearance 254.1)
+        (width 152.4)
+        (clearance 152.5)
       )
     )
     (class normal EN L_IN "Net-(C1-Pad2)" "Net-(C10-Pad1)" "Net-(C10-Pad2)"
@@ -697,7 +702,7 @@
       "Net-(U3-Pad2)" "Net-(U4-Pad2)" "Net-(U5-Pad12)" "Net-(U5-Pad13)" "Net-(U5-Pad15)"
       "Net-(U5-Pad17)" "Net-(U5-Pad3)" R_IN XGAIN XGND XOUT
       (circuit
-        (use_via Via[0-1]_584.2:330.2_um)
+        (use_via Via[0-1]_533.4:381_um)
       )
       (rule
         (width 180)
