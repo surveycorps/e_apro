@@ -1,4 +1,4 @@
-update=Wed 24 Sep 2014 03:17:25 PM EDT
+update=Sat 27 Sep 2014 06:53:58 PM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,8 +6,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -63,4 +61,5 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=gps
-LibName32=/home/nick/Documents/senior_design/libs/library/ab2_usb
+[general]
+version=1
