@@ -27,7 +27,7 @@
     (plane GND (polygon F.Cu 0  160000 -114500  149000 -114500  149000 -107000  160000 -107000))
     (plane GND (polygon In1.Cu 0  160000 -114500  149000 -114500  149000 -107000  160000 -107000))
     (keepout "" (polygon signal 0  149000 -107100  149000 -107100))
-    (via "Via[0-1]_584.2:330.2_um")
+    (via "Via[0-1]_635:381_um")
     (rule
       (width 152.4)
       (clearance 152.5)
@@ -100,9 +100,9 @@
       (shape (rect In1.Cu -863.6 -1016 863.6 1016))
       (attach off)
     )
-    (padstack "Via[0-1]_584.2:330.2_um"
-      (shape (circle F.Cu 584.2))
-      (shape (circle In1.Cu 584.2))
+    (padstack "Via[0-1]_635:381_um"
+      (shape (circle F.Cu 635))
+      (shape (circle In1.Cu 635))
       (attach off)
     )
   )
@@ -131,7 +131,7 @@
     (class kicad_default "" +5V GAIN GND "Net-(C1-Pad1)" "Net-(C1-Pad2)" "Net-(U1-Pad5)"
       OUT
       (circuit
-        (use_via Via[0-1]_584.2:330.2_um)
+        (use_via Via[0-1]_635:381_um)
       )
       (rule
         (width 152.4)
