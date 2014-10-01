@@ -1,4 +1,4 @@
-update=Sun 28 Sep 2014 09:04:42 PM EDT
+update=Wed 01 Oct 2014 12:45:02 AM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -28,7 +28,7 @@ BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
 [eeschema]
 version=1
-LibDir=
+LibDir=../../libs/KiCad/library
 [eeschema/libraries]
 LibName1=74xgxx
 LibName2=74xx
@@ -93,5 +93,6 @@ LibName60=valves
 LibName61=video
 LibName62=xilinx
 LibName63=gps
+LibName64=ab2_usb
 [general]
 version=1
