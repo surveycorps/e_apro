@@ -1,4 +1,4 @@
-update=Mon 22 Sep 2014 05:31:51 PM EDT
+update=Tue 30 Sep 2014 08:38:20 PM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -46,19 +46,19 @@ LibName31=/home/nick/Documents/senior_design/libs/library/ab2_usb
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=
-UseCmpFile=1
-PadDrill=0.3048
-PadDrillOvalY=0.3048
-PadSizeH=0.6095999999999999
-PadSizeV=0.6095999999999999
+LastNetListRead=audio.net
+UseCmpFile=0
+PadDrill=0.95
+PadDrillOvalY=0.95
+PadSizeH=1.55
+PadSizeV=1.55
 PcbTextSizeV=1.5
 PcbTextSizeH=1.5
 PcbTextThickness=0.3
 ModuleTextSizeV=1
 ModuleTextSizeH=1
 ModuleTextSizeThickness=0.15
-SolderMaskClearance=0
+SolderMaskClearance=0.002
 SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
