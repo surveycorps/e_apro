@@ -1205,7 +1205,7 @@ EECLK
 Text GLabel 9250 6350 0    60   Input ~ 0
 EEDATA
 Text GLabel 1100 5450 0    60   Input ~ 0
-DM0
+GND
 $Comp
 L GND #PWR020
 U 1 1 541466F2
