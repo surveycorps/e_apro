@@ -3,7 +3,7 @@ Date:,Fri 03 Oct 2014 11:17:06 PM EDT
 Tool:,Eeschema (2014-09-06 BZR 5115)-product
 Component Count:,35
 
-Individual Components:
+Individual Components:,
 
 Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet
 ,,C1,.1uF,device:Csmall,SMD_Packages:SMD-0603,

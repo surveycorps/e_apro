@@ -1,0 +1,9 @@
+(module ant_via (layer F.Cu) (tedit 5433C278)
+  (fp_text reference ant_via (at -0.254 -1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value VAL** (at 0.254 1.27) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.7366 0.7366) (drill 0.381) (layers *.Cu *.Mask F.SilkS))
+)
