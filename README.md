@@ -7,3 +7,4 @@ The electrical subsytems schematics, BOM, board files
 - gps is a usb powered gps module based off the Jupiter SE880
 - screen is a hdmi to tft screen converter using TFP401A
 - motor is a motor driver with F2V converters
+- powers provides power regulator based off LM3478
