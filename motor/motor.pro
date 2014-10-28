@@ -1,4 +1,4 @@
-update=Fri 17 Oct 2014 06:21:42 PM EDT
+update=Sat 25 Oct 2014 02:57:25 AM EDT
 version=1
 last_client=kicad
 [cvpcb]
@@ -63,3 +63,4 @@ LibName29=contrib
 LibName30=valves
 LibName31=motor
 LibName32=/home/nick/Documents/senior_design/screen/screen
+LibName33=/home/nick/Documents/senior_design/audio/audio
