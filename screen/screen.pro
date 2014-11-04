@@ -1,4 +1,4 @@
-update=Tue 07 Oct 2014 10:41:43 PM EDT
+update=Tue 04 Nov 2014 02:42:18 AM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -6,8 +6,6 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=/home/nick/e_apro/usb_hub;/home/nick/Documents/senior_design/libs/library
@@ -65,3 +63,5 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.09999999999999999
 ModuleOutlineThickness=0.15
+[general]
+version=1

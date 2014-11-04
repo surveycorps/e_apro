@@ -8,3 +8,4 @@ The electrical subsytems schematics, BOM, board files
 - screen is a hdmi to tft screen converter using TFP401A
 - motor is a motor driver with F2V converters
 - powers provides power regulator based off LM3478
+- apro_lib contains all the custom symbols and footprints used

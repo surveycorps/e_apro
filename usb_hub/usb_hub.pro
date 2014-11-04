@@ -1,4 +1,4 @@
-update=Mon 03 Nov 2014 01:09:15 AM EST
+update=Tue 04 Nov 2014 01:54:45 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -28,7 +28,7 @@ NetIExt=net
 EquName1=devcms
 [eeschema]
 version=1
-LibDir=../../libs/KiCad/library
+LibDir=../apro_lib
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -61,6 +61,11 @@ LibName28=atmel
 LibName29=contrib
 LibName30=valves
 LibName31=usb_hub
-LibName32=ab2_usb
+LibName32=/home/muniza/kicad/sd/apro_lib/audio
+LibName33=/home/muniza/kicad/sd/apro_lib/gps
+LibName34=/home/muniza/kicad/sd/apro_lib/motor
+LibName35=/home/muniza/kicad/sd/apro_lib/powers
+LibName36=/home/muniza/kicad/sd/apro_lib/screen
+LibName37=/home/muniza/kicad/sd/apro_lib/usb_hub
 [general]
 version=1
