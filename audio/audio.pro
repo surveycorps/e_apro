@@ -1,4 +1,4 @@
-update=Tue 04 Nov 2014 02:38:29 AM EST
+update=Mon 10 Nov 2014 04:18:08 AM EST
 version=1
 last_client=kicad
 [cvpcb]
@@ -60,5 +60,6 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=audio
+LibName31=usb_hub
 [general]
 version=1
