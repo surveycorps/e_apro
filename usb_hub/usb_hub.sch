@@ -64,7 +64,8 @@ F 7 "tape-with-leader" H 1900 4500 60  0001 C CNN "KITTING"
 F 8 "Value" H 1900 4500 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf" H 1900 4500 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf#page=17" H 1900 4500 60  0001 C CNN "LINK_PAGE"
-F 11 "TQFP-48" H 1900 4500 60  0001 C CNN "PACKAGE"
+F 11 "IC TUSB2077A TQFP-48" H 1900 4500 60  0001 C CNN "DESCRIPTION"
+F 12 "TQFP-48" H 1900 4500 60  0001 C CNN "PACKAGE"
 	1    1900 4500
 	1    0    0    -1  
 $EndComp
@@ -83,7 +84,8 @@ F 7 "tape-with-leader" H 3950 1050 60  0001 C CNN "KITTING"
 F 8 "Value" H 3950 1050 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/tps76333.pdf" H 3950 1050 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/tps76333.pdf#page=23" H 3950 1050 60  0001 C CNN "LINK_PAGE"
-F 11 "SOT-23-5" H 3950 1050 60  0001 C CNN "PACKAGE"
+F 11 "IC TPS76333 SOT-23-5" H 3950 1050 60  0001 C CNN "DESCRIPTION"
+F 12 "SOT-23-5" H 3950 1050 60  0001 C CNN "PACKAGE"
 	1    3950 1050
 	1    0    0    -1  
 $EndComp
@@ -102,7 +104,8 @@ F 7 "tape-with-leader" H 1400 1350 60  0001 C CNN "KITTING"
 F 8 "Value" H 1400 1350 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf" H 1400 1350 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf#page=47" H 1400 1350 60  0001 C CNN "LINK_PAGE"
-F 11 "SOIC-16" H 1400 1350 60  0001 C CNN "PACKAGE"
+F 11 "IC 2044B SOIC-16" H 1400 1350 60  0001 C CNN "DESCRIPTION"
+F 12 "SOIC-16" H 1400 1350 60  0001 C CNN "PACKAGE"
 	1    1400 1350
 	1    0    0    -1  
 $EndComp
@@ -136,7 +139,8 @@ F 7 "tape-with-leader" H 7750 2300 60  0001 C CNN "KITTING"
 F 8 "Value" H 7750 2300 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 7750 2300 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 7750 2300 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 7750 2300 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 7750 2300 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 7750 2300 60  0001 C CNN "PACKAGE"
 	1    7750 2300
 	1    0    0    -1  
 $EndComp
@@ -372,7 +376,8 @@ F 7 "tape-with-leader" H 2600 1050 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 1050 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 1050 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 1050 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 1050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 1050 60  0001 C CNN "PACKAGE"
 	1    2600 1050
 	0    1    1    0   
 $EndComp
@@ -422,7 +427,8 @@ F 7 "tape-with-leader" H 1400 2700 60  0001 C CNN "KITTING"
 F 8 "Value" H 1400 2700 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf" H 1400 2700 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf#page=47" H 1400 2700 60  0001 C CNN "LINK_PAGE"
-F 11 "SOIC-16" H 1400 2700 60  0001 C CNN "PACKAGE"
+F 11 "IC 2044B SOIC-16" H 1400 2700 60  0001 C CNN "DESCRIPTION"
+F 12 "SOIC-16" H 1400 2700 60  0001 C CNN "PACKAGE"
 	1    1400 2700
 	1    0    0    -1  
 $EndComp
@@ -499,7 +505,8 @@ F 7 "tape-with-leader" H 5650 950 60  0001 C CNN "KITTING"
 F 8 "Value" H 5650 950 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 5650 950 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5650 950 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5650 950 60  0001 C CNN "PACKAGE"
+F 11 "RES 1k 0603" H 5650 950 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5650 950 60  0001 C CNN "PACKAGE"
 	1    5650 950 
 	0    1    1    0   
 $EndComp
@@ -516,9 +523,10 @@ F 5 "Value" H 5050 1200 60  0001 C CNN "SBAPN"
 F 6 "0473461001" H 5050 1200 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 5050 1200 60  0001 C CNN "KITTING"
 F 8 "Value" H 5050 1200 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 5050 1200 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 5050 1200 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 5050 1200 60  0001 C CNN "PACKAGE"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 5050 1200 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 5050 1200 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 5050 1200 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 5050 1200 60  0001 C CNN "PACKAGE"
 	1    5050 1200
 	-1   0    0    1   
 $EndComp
@@ -584,7 +592,8 @@ F 7 "tape-with-leader" H 2700 7300 60  0001 C CNN "KITTING"
 F 8 "Value" H 2700 7300 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2700 7300 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2700 7300 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2700 7300 60  0001 C CNN "PACKAGE"
+F 11 "RES 1.5k 0603" H 2700 7300 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2700 7300 60  0001 C CNN "PACKAGE"
 	1    2700 7300
 	1    0    0    -1  
 $EndComp
@@ -603,7 +612,8 @@ F 7 "tape-with-leader" H 1850 7300 60  0001 C CNN "KITTING"
 F 8 "Value" H 1850 7300 60  0001 C CNN "KITTING_D"
 F 9 "http://foxonline.com/pdfs/fq1045a.pdf" H 1850 7300 60  0001 C CNN "LINK"
 F 10 "http://foxonline.com/pdfs/fq1045a.pdf#page=1" H 1850 7300 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 1850 7300 60  0001 C CNN "PACKAGE"
+F 11 "XTAL 6MHz SMD" H 1850 7300 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 1850 7300 60  0001 C CNN "PACKAGE"
 	1    1850 7300
 	-1   0    0    1   
 $EndComp
@@ -648,9 +658,10 @@ F 5 "Value" H 3100 7050 60  0001 C CNN "SBAPN"
 F 6 "GRM1885C1H220FA01J" H 3100 7050 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 3100 7050 60  0001 C CNN "KITTING"
 F 8 "Value" H 3100 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 3100 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 3100 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3100 7050 60  0001 C CNN "PACKAGE"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3100 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3100 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 3100 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3100 7050 60  0001 C CNN "PACKAGE"
 	1    3100 7050
 	1    0    0    -1  
 $EndComp
@@ -669,7 +680,8 @@ F 7 "tape-with-leader" H 1500 7400 60  0001 C CNN "KITTING"
 F 8 "Value" H 1500 7400 60  0001 C CNN "KITTING_D"
 F 9 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0-01.pdf" H 1500 7400 60  0001 C CNN "LINK"
 F 10 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0-01.pdf#page=26" H 1500 7400 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 1500 7400 60  0001 C CNN "PACKAGE"
+F 11 "CAP 33pF 0603" H 1500 7400 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 1500 7400 60  0001 C CNN "PACKAGE"
 	1    1500 7400
 	1    0    0    -1  
 $EndComp
@@ -699,7 +711,8 @@ F 7 "tape-with-leader" H 5050 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 5050 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 5050 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 5050 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5050 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 5050 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5050 5150 60  0001 C CNN "PACKAGE"
 	1    5050 5150
 	-1   0    0    1   
 $EndComp
@@ -1848,7 +1861,8 @@ F 7 "tape-with-leader" H 5900 750 60  0001 C CNN "KITTING"
 F 8 "Value" H 5900 750 60  0001 C CNN "KITTING_D"
 F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5900 750 60  0001 C CNN "LINK"
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5900 750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5900 750 60  0001 C CNN "PACKAGE"
+F 11 "LED APT1608 0603" H 5900 750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5900 750 60  0001 C CNN "PACKAGE"
 	1    5900 750 
 	1    0    0    -1  
 $EndComp
@@ -1925,9 +1939,10 @@ F 5 "Value" H 9400 900 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 9400 900 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 9400 900 60  0001 C CNN "KITTING"
 F 8 "Value" H 9400 900 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 9400 900 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 9400 900 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 9400 900 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 900 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 900 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 9400 900 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 9400 900 60  0001 C CNN "PACKAGE"
 	1    9400 900 
 	1    0    0    -1  
 $EndComp
@@ -2049,7 +2064,8 @@ F 7 "tape-with-leader" H 7800 2850 60  0001 C CNN "KITTING"
 F 8 "Value" H 7800 2850 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 7800 2850 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 7800 2850 60  0001 C CNN "LINK_PAGE"
-F 11 "TSSOP-8" H 7800 2850 60  0001 C CNN "PACKAGE"
+F 11 "IC SN75240 TSSOP-8" H 7800 2850 60  0001 C CNN "DESCRIPTION"
+F 12 "TSSOP-8" H 7800 2850 60  0001 C CNN "PACKAGE"
 	1    7800 2850
 	1    0    0    -1  
 $EndComp
@@ -2068,7 +2084,8 @@ F 7 "tape-with-leader" H 5550 1300 60  0001 C CNN "KITTING"
 F 8 "Value" H 5550 1300 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 5550 1300 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 5550 1300 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5550 1300 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 5550 1300 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5550 1300 60  0001 C CNN "PACKAGE"
 	1    5550 1300
 	-1   0    0    1   
 $EndComp
@@ -2087,7 +2104,8 @@ F 7 "tape-with-leader" H 5800 1350 60  0001 C CNN "KITTING"
 F 8 "Value" H 5800 1350 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 5800 1350 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 5800 1350 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5800 1350 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 5800 1350 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5800 1350 60  0001 C CNN "PACKAGE"
 	1    5800 1350
 	-1   0    0    1   
 $EndComp
@@ -2112,7 +2130,8 @@ F 7 "tape-with-leader" H 750 1200 60  0001 C CNN "KITTING"
 F 8 "Value" H 750 1200 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf" H 750 1200 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf#page=45" H 750 1200 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 750 1200 60  0001 C CNN "PACKAGE"
+F 11 "CAP 1uF 0603" H 750 1200 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 750 1200 60  0001 C CNN "PACKAGE"
 	1    750  1200
 	1    0    0    -1  
 $EndComp
@@ -2131,7 +2150,8 @@ F 7 "tape-with-leader" H 1000 6650 60  0001 C CNN "KITTING"
 F 8 "Value" H 1000 6650 60  0001 C CNN "KITTING_D"
 F 9 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71C104KA01-01.pdf" H 1000 6650 60  0001 C CNN "LINK"
 F 10 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71C104KA01-01.pdf#page=26" H 1000 6650 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 1000 6650 60  0001 C CNN "PACKAGE"
+F 11 "CAP .1uF 0603" H 1000 6650 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 1000 6650 60  0001 C CNN "PACKAGE"
 	1    1000 6650
 	1    0    0    -1  
 $EndComp
@@ -2154,9 +2174,10 @@ F 5 "Value" H 4650 1150 60  0001 C CNN "SBAPN"
 F 6 "CL31A106KBHNNNE" H 4650 1150 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 4650 1150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4650 1150 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 4650 1150 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 4650 1150 60  0001 C CNN "LINK_PAGE"
-F 11 "1206" H 4650 1150 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 4650 1150 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 4650 1150 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 10uF 1206" H 4650 1150 60  0001 C CNN "DESCRIPTION"
+F 12 "1206" H 4650 1150 60  0001 C CNN "PACKAGE"
 	1    4650 1150
 	1    0    0    -1  
 $EndComp
@@ -2164,82 +2185,6 @@ Wire Wire Line
 	4650 1350 4650 1250
 Wire Wire Line
 	5800 2200 5800 2050
-$Comp
-L USB_MICRO_OUT U13
-U 1 1 545C112A
-P 10900 1250
-F 0 "U13" H 10850 850 60  0000 C CNN
-F 1 "USB_MICRO_OUT" H 10750 1450 60  0000 C CNN
-F 2 "apro_lib:MICRO_USB" H 10650 1650 60  0001 C CNN
-F 3 "" H 10650 1650 60  0000 C CNN
-F 4 "c" H 10900 1250 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 10900 1250 60  0001 C CNN "SBAPN"
-F 6 "0473461001" H 10900 1250 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 10900 1250 60  0001 C CNN "KITTING"
-F 8 "Value" H 10900 1250 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 1250 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 1250 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 10900 1250 60  0001 C CNN "PACKAGE"
-	1    10900 1250
-	1    0    0    -1  
-$EndComp
-$Comp
-L USB_MICRO_OUT U14
-U 1 1 545C2786
-P 10900 2750
-F 0 "U14" H 10850 2350 60  0000 C CNN
-F 1 "USB_MICRO_OUT" H 10750 2950 60  0000 C CNN
-F 2 "apro_lib:MICRO_USB" H 10650 3150 60  0001 C CNN
-F 3 "" H 10650 3150 60  0000 C CNN
-F 4 "c" H 10900 2750 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 10900 2750 60  0001 C CNN "SBAPN"
-F 6 "0473461001" H 10900 2750 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 10900 2750 60  0001 C CNN "KITTING"
-F 8 "Value" H 10900 2750 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 2750 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 2750 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 10900 2750 60  0001 C CNN "PACKAGE"
-	1    10900 2750
-	1    0    0    -1  
-$EndComp
-$Comp
-L USB_MICRO_OUT U15
-U 1 1 545C2CF0
-P 10900 3700
-F 0 "U15" H 10850 3300 60  0000 C CNN
-F 1 "USB_MICRO_OUT" H 10750 3900 60  0000 C CNN
-F 2 "apro_lib:MICRO_USB" H 10650 4100 60  0001 C CNN
-F 3 "" H 10650 4100 60  0000 C CNN
-F 4 "c" H 10900 3700 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 10900 3700 60  0001 C CNN "SBAPN"
-F 6 "0473461001" H 10900 3700 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 10900 3700 60  0001 C CNN "KITTING"
-F 8 "Value" H 10900 3700 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 3700 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 3700 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 10900 3700 60  0001 C CNN "PACKAGE"
-	1    10900 3700
-	1    0    0    -1  
-$EndComp
-$Comp
-L USB_MICRO_OUT U16
-U 1 1 545C3036
-P 10900 5200
-F 0 "U16" H 10850 4800 60  0000 C CNN
-F 1 "USB_MICRO_OUT" H 10900 5400 60  0000 C CNN
-F 2 "apro_lib:MICRO_USB" H 10650 5600 60  0001 C CNN
-F 3 "" H 10650 5600 60  0000 C CNN
-F 4 "c" H 10900 5200 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 10900 5200 60  0001 C CNN "SBAPN"
-F 6 "0473461001" H 10900 5200 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 10900 5200 60  0001 C CNN "KITTING"
-F 8 "Value" H 10900 5200 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 5200 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 5200 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 10900 5200 60  0001 C CNN "PACKAGE"
-	1    10900 5200
-	1    0    0    -1  
-$EndComp
 $Comp
 L USB_MICRO_OUT U10
 U 1 1 545C630A
@@ -2253,9 +2198,10 @@ F 5 "Value" H 8800 2250 60  0001 C CNN "SBAPN"
 F 6 "0473461001" H 8800 2250 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 8800 2250 60  0001 C CNN "KITTING"
 F 8 "Value" H 8800 2250 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8800 2250 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8800 2250 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 8800 2250 60  0001 C CNN "PACKAGE"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8800 2250 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8800 2250 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 8800 2250 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 8800 2250 60  0001 C CNN "PACKAGE"
 	1    8800 2250
 	1    0    0    -1  
 $EndComp
@@ -2272,29 +2218,11 @@ F 5 "Value" H 8450 3750 60  0001 C CNN "SBAPN"
 F 6 "0473461001" H 8450 3750 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 8450 3750 60  0001 C CNN "KITTING"
 F 8 "Value" H 8450 3750 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8450 3750 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8450 3750 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 8450 3750 60  0001 C CNN "PACKAGE"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8450 3750 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8450 3750 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 8450 3750 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 8450 3750 60  0001 C CNN "PACKAGE"
 	1    8450 3750
-	1    0    0    -1  
-$EndComp
-$Comp
-L USB_MICRO_OUT U9
-U 1 1 545C6DB2
-P 8450 5250
-F 0 "U9" H 8400 4850 60  0000 C CNN
-F 1 "USB_MICRO_OUT" H 8450 5450 60  0000 C CNN
-F 2 "apro_lib:MICRO_USB" H 8200 5650 60  0001 C CNN
-F 3 "" H 8200 5650 60  0000 C CNN
-F 4 "c" H 8450 5250 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 8450 5250 60  0001 C CNN "SBAPN"
-F 6 "0473461001" H 8450 5250 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 8450 5250 60  0001 C CNN "KITTING"
-F 8 "Value" H 8450 5250 60  0001 C CNN "KITTING_D"
-F 9 "www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8450 5250 60  0001 C CNN "LINK"
-F 10 "www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8450 5250 60  0001 C CNN "LINK_PAGE"
-F 11 "SMD" H 8450 5250 60  0001 C CNN "PACKAGE"
-	1    8450 5250
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -2312,7 +2240,8 @@ F 7 "tape-with-leader" H 2600 1200 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 1200 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 1200 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1200 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 1200 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 1200 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 1200 60  0001 C CNN "PACKAGE"
 	1    2600 1200
 	0    1    1    0   
 $EndComp
@@ -2331,7 +2260,8 @@ F 7 "tape-with-leader" H 2600 1350 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 1350 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 1350 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1350 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 1350 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 1350 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 1350 60  0001 C CNN "PACKAGE"
 	1    2600 1350
 	0    1    1    0   
 $EndComp
@@ -2350,7 +2280,8 @@ F 7 "tape-with-leader" H 2600 1500 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 1500 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 1500 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1500 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 1500 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 1500 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 1500 60  0001 C CNN "PACKAGE"
 	1    2600 1500
 	0    1    1    0   
 $EndComp
@@ -2369,7 +2300,8 @@ F 7 "tape-with-leader" H 2600 2450 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 2450 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 2450 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 2450 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 2450 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 2450 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 2450 60  0001 C CNN "PACKAGE"
 	1    2600 2450
 	0    1    1    0   
 $EndComp
@@ -2388,7 +2320,8 @@ F 7 "tape-with-leader" H 2600 2600 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 2600 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 2600 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 2600 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 2600 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 2600 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 2600 60  0001 C CNN "PACKAGE"
 	1    2600 2600
 	0    1    1    0   
 $EndComp
@@ -2407,7 +2340,8 @@ F 7 "tape-with-leader" H 2600 2750 60  0001 C CNN "KITTING"
 F 8 "Value" H 2600 2750 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 2600 2750 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 2750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2600 2750 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 2600 2750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2600 2750 60  0001 C CNN "PACKAGE"
 	1    2600 2750
 	0    1    1    0   
 $EndComp
@@ -2426,7 +2360,8 @@ F 7 "tape-with-leader" H 4850 2600 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 2600 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 2600 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 2600 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 2600 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 2600 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 2600 60  0001 C CNN "PACKAGE"
 	1    4850 2600
 	0    1    1    0   
 $EndComp
@@ -2445,7 +2380,8 @@ F 7 "tape-with-leader" H 4850 2750 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 2750 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 2750 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 2750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 2750 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 2750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 2750 60  0001 C CNN "PACKAGE"
 	1    4850 2750
 	0    1    1    0   
 $EndComp
@@ -2464,7 +2400,8 @@ F 7 "tape-with-leader" H 4850 2900 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 2900 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 2900 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 2900 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 2900 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 2900 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 2900 60  0001 C CNN "PACKAGE"
 	1    4850 2900
 	0    1    1    0   
 $EndComp
@@ -2483,7 +2420,8 @@ F 7 "tape-with-leader" H 4850 3050 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3050 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3050 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3050 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3050 60  0001 C CNN "PACKAGE"
 	1    4850 3050
 	0    1    1    0   
 $EndComp
@@ -2502,7 +2440,8 @@ F 7 "tape-with-leader" H 4850 3200 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3200 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3200 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3200 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3200 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3200 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3200 60  0001 C CNN "PACKAGE"
 	1    4850 3200
 	0    1    1    0   
 $EndComp
@@ -2521,7 +2460,8 @@ F 7 "tape-with-leader" H 4850 3350 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3350 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3350 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3350 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3350 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3350 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3350 60  0001 C CNN "PACKAGE"
 	1    4850 3350
 	0    1    1    0   
 $EndComp
@@ -2540,7 +2480,8 @@ F 7 "tape-with-leader" H 4850 3500 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3500 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3500 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3500 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3500 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3500 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3500 60  0001 C CNN "PACKAGE"
 	1    4850 3500
 	0    1    1    0   
 $EndComp
@@ -2559,7 +2500,8 @@ F 7 "tape-with-leader" H 4850 3650 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3650 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3650 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3650 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3650 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3650 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3650 60  0001 C CNN "PACKAGE"
 	1    4850 3650
 	0    1    1    0   
 $EndComp
@@ -2578,7 +2520,8 @@ F 7 "tape-with-leader" H 4850 3800 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3800 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3800 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3800 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3800 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3800 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3800 60  0001 C CNN "PACKAGE"
 	1    4850 3800
 	0    1    1    0   
 $EndComp
@@ -2597,7 +2540,8 @@ F 7 "tape-with-leader" H 4850 3950 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 3950 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 3950 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3950 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 3950 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 3950 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 3950 60  0001 C CNN "PACKAGE"
 	1    4850 3950
 	0    1    1    0   
 $EndComp
@@ -2616,7 +2560,8 @@ F 7 "tape-with-leader" H 4850 4100 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 4100 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 4100 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4100 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 4100 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 4100 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 4100 60  0001 C CNN "PACKAGE"
 	1    4850 4100
 	0    1    1    0   
 $EndComp
@@ -2635,7 +2580,8 @@ F 7 "tape-with-leader" H 4850 4250 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 4250 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 4250 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4250 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 4250 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 4250 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 4250 60  0001 C CNN "PACKAGE"
 	1    4850 4250
 	0    1    1    0   
 $EndComp
@@ -2654,7 +2600,8 @@ F 7 "tape-with-leader" H 4850 4400 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 4400 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 4400 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4400 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 4400 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 4400 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 4400 60  0001 C CNN "PACKAGE"
 	1    4850 4400
 	0    1    1    0   
 $EndComp
@@ -2673,7 +2620,8 @@ F 7 "tape-with-leader" H 4850 4550 60  0001 C CNN "KITTING"
 F 8 "Value" H 4850 4550 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 4850 4550 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4550 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4850 4550 60  0001 C CNN "PACKAGE"
+F 11 "RES 15k 0603" H 4850 4550 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4850 4550 60  0001 C CNN "PACKAGE"
 	1    4850 4550
 	0    1    1    0   
 $EndComp
@@ -2692,7 +2640,8 @@ F 7 "tape-with-leader" H 4900 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4900 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4900 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4900 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4900 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4900 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4900 5150 60  0001 C CNN "PACKAGE"
 	1    4900 5150
 	-1   0    0    1   
 $EndComp
@@ -2711,7 +2660,8 @@ F 7 "tape-with-leader" H 4750 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4750 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4750 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4750 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4750 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4750 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4750 5150 60  0001 C CNN "PACKAGE"
 	1    4750 5150
 	-1   0    0    1   
 $EndComp
@@ -2730,7 +2680,8 @@ F 7 "tape-with-leader" H 4600 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4600 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4600 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4600 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4600 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4600 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4600 5150 60  0001 C CNN "PACKAGE"
 	1    4600 5150
 	-1   0    0    1   
 $EndComp
@@ -2749,7 +2700,8 @@ F 7 "tape-with-leader" H 4450 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4450 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4450 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4450 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4450 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4450 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4450 5150 60  0001 C CNN "PACKAGE"
 	1    4450 5150
 	-1   0    0    1   
 $EndComp
@@ -2768,7 +2720,8 @@ F 7 "tape-with-leader" H 4300 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4300 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4300 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4300 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4300 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4300 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4300 5150 60  0001 C CNN "PACKAGE"
 	1    4300 5150
 	-1   0    0    1   
 $EndComp
@@ -2787,7 +2740,8 @@ F 7 "tape-with-leader" H 4150 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4150 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4150 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4150 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4150 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4150 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4150 5150 60  0001 C CNN "PACKAGE"
 	1    4150 5150
 	-1   0    0    1   
 $EndComp
@@ -2806,7 +2760,8 @@ F 7 "tape-with-leader" H 4000 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 4000 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 4000 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4000 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4000 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 4000 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4000 5150 60  0001 C CNN "PACKAGE"
 	1    4000 5150
 	-1   0    0    1   
 $EndComp
@@ -2825,7 +2780,8 @@ F 7 "tape-with-leader" H 3850 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3850 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 3850 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3850 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3850 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 3850 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3850 5150 60  0001 C CNN "PACKAGE"
 	1    3850 5150
 	-1   0    0    1   
 $EndComp
@@ -2844,7 +2800,8 @@ F 7 "tape-with-leader" H 3700 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3700 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 3700 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3700 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3700 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 3700 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3700 5150 60  0001 C CNN "PACKAGE"
 	1    3700 5150
 	-1   0    0    1   
 $EndComp
@@ -2863,7 +2820,8 @@ F 7 "tape-with-leader" H 3550 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3550 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 3550 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3550 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3550 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 3550 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3550 5150 60  0001 C CNN "PACKAGE"
 	1    3550 5150
 	-1   0    0    1   
 $EndComp
@@ -2882,7 +2840,8 @@ F 7 "tape-with-leader" H 3400 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3400 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 3400 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3400 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3400 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 3400 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3400 5150 60  0001 C CNN "PACKAGE"
 	1    3400 5150
 	-1   0    0    1   
 $EndComp
@@ -2901,7 +2860,8 @@ F 7 "tape-with-leader" H 3250 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3250 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 3250 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3250 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3250 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 3250 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3250 5150 60  0001 C CNN "PACKAGE"
 	1    3250 5150
 	-1   0    0    1   
 $EndComp
@@ -2920,294 +2880,10 @@ F 7 "tape-with-leader" H 3100 5150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3100 5150 60  0001 C CNN "KITTING_D"
 F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 3100 5150 60  0001 C CNN "LINK"
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3100 5150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3100 5150 60  0001 C CNN "PACKAGE"
+F 11 "RES 30R 0603" H 3100 5150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3100 5150 60  0001 C CNN "PACKAGE"
 	1    3100 5150
 	-1   0    0    1   
-$EndComp
-$Comp
-L Csmall C8
-U 1 1 545E9E71
-P 3250 7050
-F 0 "C8" H 3275 7100 30  0000 L CNN
-F 1 "22pF" H 3275 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 3250 7050 60  0001 C CNN
-F 3 "" H 3250 7050 60  0000 C CNN
-F 4 "c" H 3250 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 3250 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 3250 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 3250 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 3250 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 3250 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 3250 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3250 7050 60  0001 C CNN "PACKAGE"
-	1    3250 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C9
-U 1 1 545E9EF6
-P 3400 7050
-F 0 "C9" H 3425 7100 30  0000 L CNN
-F 1 "22pF" H 3425 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 3400 7050 60  0001 C CNN
-F 3 "" H 3400 7050 60  0000 C CNN
-F 4 "c" H 3400 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 3400 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 3400 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 3400 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 3400 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 3400 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 3400 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3400 7050 60  0001 C CNN "PACKAGE"
-	1    3400 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C10
-U 1 1 545E9F7C
-P 3550 7050
-F 0 "C10" H 3575 7100 30  0000 L CNN
-F 1 "22pF" H 3575 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 3550 7050 60  0001 C CNN
-F 3 "" H 3550 7050 60  0000 C CNN
-F 4 "c" H 3550 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 3550 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 3550 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 3550 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 3550 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 3550 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 3550 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3550 7050 60  0001 C CNN "PACKAGE"
-	1    3550 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C11
-U 1 1 545EA003
-P 3700 7050
-F 0 "C11" H 3725 7100 30  0000 L CNN
-F 1 "22pF" H 3725 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 3700 7050 60  0001 C CNN
-F 3 "" H 3700 7050 60  0000 C CNN
-F 4 "c" H 3700 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 3700 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 3700 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 3700 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 3700 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 3700 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 3700 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3700 7050 60  0001 C CNN "PACKAGE"
-	1    3700 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C12
-U 1 1 545EA08B
-P 3850 7050
-F 0 "C12" H 3875 7100 30  0000 L CNN
-F 1 "22pF" H 3875 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 3850 7050 60  0001 C CNN
-F 3 "" H 3850 7050 60  0000 C CNN
-F 4 "c" H 3850 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 3850 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 3850 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 3850 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 3850 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 3850 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 3850 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3850 7050 60  0001 C CNN "PACKAGE"
-	1    3850 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C13
-U 1 1 545EA114
-P 4000 7050
-F 0 "C13" H 4025 7100 30  0000 L CNN
-F 1 "22pF" H 4025 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4000 7050 60  0001 C CNN
-F 3 "" H 4000 7050 60  0000 C CNN
-F 4 "c" H 4000 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4000 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4000 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4000 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4000 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4000 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4000 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4000 7050 60  0001 C CNN "PACKAGE"
-	1    4000 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C14
-U 1 1 545EA39C
-P 4150 7050
-F 0 "C14" H 4175 7100 30  0000 L CNN
-F 1 "22pF" H 4175 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4150 7050 60  0001 C CNN
-F 3 "" H 4150 7050 60  0000 C CNN
-F 4 "c" H 4150 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4150 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4150 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4150 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4150 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4150 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4150 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4150 7050 60  0001 C CNN "PACKAGE"
-	1    4150 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C15
-U 1 1 545EA427
-P 4300 7050
-F 0 "C15" H 4325 7100 30  0000 L CNN
-F 1 "22pF" H 4325 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4300 7050 60  0001 C CNN
-F 3 "" H 4300 7050 60  0000 C CNN
-F 4 "c" H 4300 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4300 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4300 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4300 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4300 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4300 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4300 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4300 7050 60  0001 C CNN "PACKAGE"
-	1    4300 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C16
-U 1 1 545EA4B3
-P 4450 7050
-F 0 "C16" H 4475 7100 30  0000 L CNN
-F 1 "22pF" H 4475 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4450 7050 60  0001 C CNN
-F 3 "" H 4450 7050 60  0000 C CNN
-F 4 "c" H 4450 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4450 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4450 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4450 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4450 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4450 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4450 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4450 7050 60  0001 C CNN "PACKAGE"
-	1    4450 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C17
-U 1 1 545EA540
-P 4600 7050
-F 0 "C17" H 4625 7100 30  0000 L CNN
-F 1 "22pF" H 4625 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4600 7050 60  0001 C CNN
-F 3 "" H 4600 7050 60  0000 C CNN
-F 4 "c" H 4600 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4600 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4600 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4600 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4600 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4600 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4600 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4600 7050 60  0001 C CNN "PACKAGE"
-	1    4600 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C19
-U 1 1 545EA5CE
-P 4750 7050
-F 0 "C19" H 4775 7100 30  0000 L CNN
-F 1 "22pF" H 4775 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4750 7050 60  0001 C CNN
-F 3 "" H 4750 7050 60  0000 C CNN
-F 4 "c" H 4750 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4750 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4750 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4750 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4750 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4750 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4750 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4750 7050 60  0001 C CNN "PACKAGE"
-	1    4750 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C20
-U 1 1 545EA65D
-P 4900 7050
-F 0 "C20" H 4925 7100 30  0000 L CNN
-F 1 "22pF" H 4925 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 4900 7050 60  0001 C CNN
-F 3 "" H 4900 7050 60  0000 C CNN
-F 4 "c" H 4900 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 4900 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 4900 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 4900 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 4900 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 4900 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 4900 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 4900 7050 60  0001 C CNN "PACKAGE"
-	1    4900 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C21
-U 1 1 545EA6ED
-P 5050 7050
-F 0 "C21" H 5075 7100 30  0000 L CNN
-F 1 "22pF" H 5075 7000 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 5050 7050 60  0001 C CNN
-F 3 "" H 5050 7050 60  0000 C CNN
-F 4 "c" H 5050 7050 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 5050 7050 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 5050 7050 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 5050 7050 60  0001 C CNN "KITTING"
-F 8 "Value" H 5050 7050 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 5050 7050 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 5050 7050 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5050 7050 60  0001 C CNN "PACKAGE"
-	1    5050 7050
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C22
-U 1 1 545ED6F7
-P 5550 1950
-F 0 "C22" H 5575 2000 30  0000 L CNN
-F 1 "22pF" H 5575 1900 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 5550 1950 60  0001 C CNN
-F 3 "" H 5550 1950 60  0000 C CNN
-F 4 "c" H 5550 1950 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 5550 1950 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 5550 1950 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 5550 1950 60  0001 C CNN "KITTING"
-F 8 "Value" H 5550 1950 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 5550 1950 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 5550 1950 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5550 1950 60  0001 C CNN "PACKAGE"
-	1    5550 1950
-	1    0    0    -1  
-$EndComp
-$Comp
-L Csmall C23
-U 1 1 545EDCC7
-P 5800 1950
-F 0 "C23" H 5825 2000 30  0000 L CNN
-F 1 "22pF" H 5825 1900 30  0000 L CNN
-F 2 "SMD_Packages:SMD-0603" H 5800 1950 60  0001 C CNN
-F 3 "" H 5800 1950 60  0000 C CNN
-F 4 "c" H 5800 1950 60  0001 C CNN "SUPPLIER"
-F 5 "Value" H 5800 1950 60  0001 C CNN "SBAPN"
-F 6 "GRM1885C1H220FA01J" H 5800 1950 60  0001 C CNN "MFRPN"
-F 7 "tape-with-leader" H 5800 1950 60  0001 C CNN "KITTING"
-F 8 "Value" H 5800 1950 60  0001 C CNN "KITTING_D"
-F 9 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx" H 5800 1950 60  0001 C CNN "LINK"
-F 10 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.ashx#page=176" H 5800 1950 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5800 1950 60  0001 C CNN "PACKAGE"
-	1    5800 1950
-	1    0    0    -1  
 $EndComp
 $Comp
 L Csmall C2
@@ -3224,7 +2900,8 @@ F 7 "tape-with-leader" H 750 2550 60  0001 C CNN "KITTING"
 F 8 "Value" H 750 2550 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf" H 750 2550 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf#page=45" H 750 2550 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 750 2550 60  0001 C CNN "PACKAGE"
+F 11 "CAP 1uF 0603" H 750 2550 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 750 2550 60  0001 C CNN "PACKAGE"
 	1    750  2550
 	1    0    0    -1  
 $EndComp
@@ -3243,7 +2920,8 @@ F 7 "tape-with-leader" H 3100 1150 60  0001 C CNN "KITTING"
 F 8 "Value" H 3100 1150 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf" H 3100 1150 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf#page=45" H 3100 1150 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 3100 1150 60  0001 C CNN "PACKAGE"
+F 11 "CAP 1uF 0603" H 3100 1150 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3100 1150 60  0001 C CNN "PACKAGE"
 	1    3100 1150
 	1    0    0    -1  
 $EndComp
@@ -3262,7 +2940,8 @@ F 7 "tape-with-leader" H 2200 7400 60  0001 C CNN "KITTING"
 F 8 "Value" H 2200 7400 60  0001 C CNN "KITTING_D"
 F 9 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0-01.pdf" H 2200 7400 60  0001 C CNN "LINK"
 F 10 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0-01.pdf#page=26" H 2200 7400 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 2200 7400 60  0001 C CNN "PACKAGE"
+F 11 "CAP 33pF 0603" H 2200 7400 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 2200 7400 60  0001 C CNN "PACKAGE"
 	1    2200 7400
 	1    0    0    -1  
 $EndComp
@@ -3279,9 +2958,10 @@ F 5 "Value" H 7550 1200 60  0001 C CNN "SBAPN"
 F 6 "CL31A106KBHNNNE" H 7550 1200 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 7550 1200 60  0001 C CNN "KITTING"
 F 8 "Value" H 7550 1200 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 7550 1200 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 7550 1200 60  0001 C CNN "LINK_PAGE"
-F 11 "1206" H 7550 1200 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7550 1200 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7550 1200 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 10uF 1206" H 7550 1200 60  0001 C CNN "DESCRIPTION"
+F 12 "1206" H 7550 1200 60  0001 C CNN "PACKAGE"
 	1    7550 1200
 	1    0    0    -1  
 $EndComp
@@ -3300,7 +2980,8 @@ F 7 "tape-with-leader" H 6100 1400 60  0001 C CNN "KITTING"
 F 8 "Value" H 6100 1400 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 6100 1400 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 6100 1400 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 6100 1400 60  0001 C CNN "PACKAGE"
+F 11 "RES 1.5k 0603" H 6100 1400 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 6100 1400 60  0001 C CNN "PACKAGE"
 	1    6100 1400
 	1    0    0    -1  
 $EndComp
@@ -3319,7 +3000,8 @@ F 7 "tape-with-leader" H 5400 6750 60  0001 C CNN "KITTING"
 F 8 "Value" H 5400 6750 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 5400 6750 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5400 6750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5400 6750 60  0001 C CNN "PACKAGE"
+F 11 "RES 1k 0603" H 5400 6750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5400 6750 60  0001 C CNN "PACKAGE"
 	1    5400 6750
 	1    0    0    -1  
 $EndComp
@@ -3338,7 +3020,8 @@ F 7 "tape-with-leader" H 5650 6750 60  0001 C CNN "KITTING"
 F 8 "Value" H 5650 6750 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 5650 6750 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5650 6750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5650 6750 60  0001 C CNN "PACKAGE"
+F 11 "RES 1k 0603" H 5650 6750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5650 6750 60  0001 C CNN "PACKAGE"
 	1    5650 6750
 	1    0    0    -1  
 $EndComp
@@ -3357,7 +3040,8 @@ F 7 "tape-with-leader" H 5900 6750 60  0001 C CNN "KITTING"
 F 8 "Value" H 5900 6750 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 5900 6750 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5900 6750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5900 6750 60  0001 C CNN "PACKAGE"
+F 11 "RES 1k 0603" H 5900 6750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5900 6750 60  0001 C CNN "PACKAGE"
 	1    5900 6750
 	1    0    0    -1  
 $EndComp
@@ -3376,7 +3060,8 @@ F 7 "tape-with-leader" H 6200 6450 60  0001 C CNN "KITTING"
 F 8 "Value" H 6200 6450 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 6200 6450 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 6200 6450 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 6200 6450 60  0001 C CNN "PACKAGE"
+F 11 "RES 1k 0603" H 6200 6450 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 6200 6450 60  0001 C CNN "PACKAGE"
 	1    6200 6450
 	1    0    0    -1  
 $EndComp
@@ -3395,7 +3080,8 @@ F 7 "tape-with-leader" H 7950 1450 60  0001 C CNN "KITTING"
 F 8 "Value" H 7950 1450 60  0001 C CNN "KITTING_D"
 F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf" H 7950 1450 60  0001 C CNN "LINK"
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 7950 1450 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 7950 1450 60  0001 C CNN "PACKAGE"
+F 11 "RES 1k 0603" H 7950 1450 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 7950 1450 60  0001 C CNN "PACKAGE"
 	1    7950 1450
 	0    -1   -1   0   
 $EndComp
@@ -3414,7 +3100,8 @@ F 7 "tape-with-leader" H 8350 1100 60  0001 C CNN "KITTING"
 F 8 "Value" H 8350 1100 60  0001 C CNN "KITTING_D"
 F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 8350 1100 60  0001 C CNN "LINK"
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 8350 1100 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 8350 1100 60  0001 C CNN "PACKAGE"
+F 11 "LED APT1608 0603" H 8350 1100 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 8350 1100 60  0001 C CNN "PACKAGE"
 	1    8350 1100
 	0    1    1    0   
 $EndComp
@@ -3433,7 +3120,8 @@ F 7 "tape-with-leader" H 5400 7250 60  0001 C CNN "KITTING"
 F 8 "Value" H 5400 7250 60  0001 C CNN "KITTING_D"
 F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5400 7250 60  0001 C CNN "LINK"
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5400 7250 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5400 7250 60  0001 C CNN "PACKAGE"
+F 11 "LED APT1608 0603" H 5400 7250 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5400 7250 60  0001 C CNN "PACKAGE"
 	1    5400 7250
 	0    1    1    0   
 $EndComp
@@ -3452,7 +3140,8 @@ F 7 "tape-with-leader" H 5650 7250 60  0001 C CNN "KITTING"
 F 8 "Value" H 5650 7250 60  0001 C CNN "KITTING_D"
 F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5650 7250 60  0001 C CNN "LINK"
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5650 7250 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5650 7250 60  0001 C CNN "PACKAGE"
+F 11 "LED APT1608 0603" H 5650 7250 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5650 7250 60  0001 C CNN "PACKAGE"
 	1    5650 7250
 	0    1    1    0   
 $EndComp
@@ -3471,7 +3160,8 @@ F 7 "tape-with-leader" H 5900 7250 60  0001 C CNN "KITTING"
 F 8 "Value" H 5900 7250 60  0001 C CNN "KITTING_D"
 F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5900 7250 60  0001 C CNN "LINK"
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5900 7250 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 5900 7250 60  0001 C CNN "PACKAGE"
+F 11 "LED APT1608 0603" H 5900 7250 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5900 7250 60  0001 C CNN "PACKAGE"
 	1    5900 7250
 	0    1    1    0   
 $EndComp
@@ -3490,7 +3180,8 @@ F 7 "tape-with-leader" H 6200 6950 60  0001 C CNN "KITTING"
 F 8 "Value" H 6200 6950 60  0001 C CNN "KITTING_D"
 F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 6200 6950 60  0001 C CNN "LINK"
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 6200 6950 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 6200 6950 60  0001 C CNN "PACKAGE"
+F 11 "LED APT1608 0603" H 6200 6950 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 6200 6950 60  0001 C CNN "PACKAGE"
 	1    6200 6950
 	0    1    1    0   
 $EndComp
@@ -3509,7 +3200,8 @@ F 7 "tape-with-leader" H 7450 4350 60  0001 C CNN "KITTING"
 F 8 "Value" H 7450 4350 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 7450 4350 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 7450 4350 60  0001 C CNN "LINK_PAGE"
-F 11 "TSSOP-8" H 7450 4350 60  0001 C CNN "PACKAGE"
+F 11 "IC SN75240 TSSOP-8" H 7450 4350 60  0001 C CNN "DESCRIPTION"
+F 12 "TSSOP-8" H 7450 4350 60  0001 C CNN "PACKAGE"
 	1    7450 4350
 	1    0    0    -1  
 $EndComp
@@ -3528,7 +3220,8 @@ F 7 "tape-with-leader" H 9850 4300 60  0001 C CNN "KITTING"
 F 8 "Value" H 9850 4300 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 9850 4300 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 9850 4300 60  0001 C CNN "LINK_PAGE"
-F 11 "TSSOP-8" H 9850 4300 60  0001 C CNN "PACKAGE"
+F 11 "IC SN75240 TSSOP-8" H 9850 4300 60  0001 C CNN "DESCRIPTION"
+F 12 "TSSOP-8" H 9850 4300 60  0001 C CNN "PACKAGE"
 	1    9850 4300
 	1    0    0    -1  
 $EndComp
@@ -3547,7 +3240,8 @@ F 7 "tape-with-leader" H 9850 1850 60  0001 C CNN "KITTING"
 F 8 "Value" H 9850 1850 60  0001 C CNN "KITTING_D"
 F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 9850 1850 60  0001 C CNN "LINK"
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 9850 1850 60  0001 C CNN "LINK_PAGE"
-F 11 "TSSOP-8" H 9850 1850 60  0001 C CNN "PACKAGE"
+F 11 "IC SN75240 TSSOP-8" H 9850 1850 60  0001 C CNN "DESCRIPTION"
+F 12 "TSSOP-8" H 9850 1850 60  0001 C CNN "PACKAGE"
 	1    9850 1850
 	1    0    0    -1  
 $EndComp
@@ -3564,9 +3258,10 @@ F 5 "Value" H 9400 2400 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 9400 2400 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 9400 2400 60  0001 C CNN "KITTING"
 F 8 "Value" H 9400 2400 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 9400 2400 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 9400 2400 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 9400 2400 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 2400 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 2400 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 9400 2400 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 9400 2400 60  0001 C CNN "PACKAGE"
 	1    9400 2400
 	1    0    0    -1  
 $EndComp
@@ -3583,9 +3278,10 @@ F 5 "Value" H 7350 1950 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 7350 1950 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 7350 1950 60  0001 C CNN "KITTING"
 F 8 "Value" H 7350 1950 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 7350 1950 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 7350 1950 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 7350 1950 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7350 1950 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7350 1950 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 7350 1950 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 7350 1950 60  0001 C CNN "PACKAGE"
 	1    7350 1950
 	1    0    0    -1  
 $EndComp
@@ -3602,9 +3298,10 @@ F 5 "Value" H 7000 3400 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 7000 3400 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 7000 3400 60  0001 C CNN "KITTING"
 F 8 "Value" H 7000 3400 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 7000 3400 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 7000 3400 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 7000 3400 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7000 3400 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7000 3400 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 7000 3400 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 7000 3400 60  0001 C CNN "PACKAGE"
 	1    7000 3400
 	1    0    0    -1  
 $EndComp
@@ -3621,9 +3318,10 @@ F 5 "Value" H 7000 4900 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 7000 4900 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 7000 4900 60  0001 C CNN "KITTING"
 F 8 "Value" H 7000 4900 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 7000 4900 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 7000 4900 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 7000 4900 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7000 4900 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7000 4900 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 7000 4900 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 7000 4900 60  0001 C CNN "PACKAGE"
 	1    7000 4900
 	1    0    0    -1  
 $EndComp
@@ -3640,9 +3338,10 @@ F 5 "Value" H 9400 3350 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 9400 3350 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 9400 3350 60  0001 C CNN "KITTING"
 F 8 "Value" H 9400 3350 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 9400 3350 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 9400 3350 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 9400 3350 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 3350 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 3350 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 9400 3350 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 9400 3350 60  0001 C CNN "PACKAGE"
 	1    9400 3350
 	1    0    0    -1  
 $EndComp
@@ -3659,9 +3358,10 @@ F 5 "Value" H 9400 4850 60  0001 C CNN "SBAPN"
 F 6 "CL32A107MPVNNNE" H 9400 4850 60  0001 C CNN "MFRPN"
 F 7 "tape-with-leader" H 9400 4850 60  0001 C CNN "KITTING"
 F 8 "Value" H 9400 4850 60  0001 C CNN "KITTING_D"
-F 9 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf" H 9400 4850 60  0001 C CNN "LINK"
-F 10 "http://www.samsungsem.com/servlet/FileDownload?filename=productcatalog/pdf/MLCC.pdf#page=76" H 9400 4850 60  0001 C CNN "LINK_PAGE"
-F 11 "1210" H 9400 4850 60  0001 C CNN "PACKAGE"
+F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 4850 60  0001 C CNN "LINK"
+F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 4850 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 100uF 1210" H 9400 4850 60  0001 C CNN "DESCRIPTION"
+F 12 "1210" H 9400 4850 60  0001 C CNN "PACKAGE"
 	1    9400 4850
 	1    0    0    -1  
 $EndComp
@@ -3680,7 +3380,8 @@ F 7 "tape-with-leader" H 7400 3800 60  0001 C CNN "KITTING"
 F 8 "Value" H 7400 3800 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 7400 3800 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 7400 3800 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 7400 3800 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 7400 3800 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 7400 3800 60  0001 C CNN "PACKAGE"
 	1    7400 3800
 	1    0    0    -1  
 $EndComp
@@ -3699,7 +3400,8 @@ F 7 "tape-with-leader" H 7300 5300 60  0001 C CNN "KITTING"
 F 8 "Value" H 7300 5300 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 7300 5300 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 7300 5300 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 7300 5300 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 7300 5300 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 7300 5300 60  0001 C CNN "PACKAGE"
 	1    7300 5300
 	1    0    0    -1  
 $EndComp
@@ -3718,7 +3420,8 @@ F 7 "tape-with-leader" H 9700 5250 60  0001 C CNN "KITTING"
 F 8 "Value" H 9700 5250 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 5250 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 5250 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 9700 5250 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 9700 5250 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 9700 5250 60  0001 C CNN "PACKAGE"
 	1    9700 5250
 	1    0    0    -1  
 $EndComp
@@ -3737,7 +3440,8 @@ F 7 "tape-with-leader" H 9700 3750 60  0001 C CNN "KITTING"
 F 8 "Value" H 9700 3750 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 3750 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 3750 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 9700 3750 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 9700 3750 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 9700 3750 60  0001 C CNN "PACKAGE"
 	1    9700 3750
 	1    0    0    -1  
 $EndComp
@@ -3756,7 +3460,8 @@ F 7 "tape-with-leader" H 9700 2800 60  0001 C CNN "KITTING"
 F 8 "Value" H 9700 2800 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 2800 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 2800 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 9700 2800 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 9700 2800 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 9700 2800 60  0001 C CNN "PACKAGE"
 	1    9700 2800
 	1    0    0    -1  
 $EndComp
@@ -3775,8 +3480,409 @@ F 7 "tape-with-leader" H 9700 1300 60  0001 C CNN "KITTING"
 F 8 "Value" H 9700 1300 60  0001 C CNN "KITTING_D"
 F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 1300 60  0001 C CNN "LINK"
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 1300 60  0001 C CNN "LINK_PAGE"
-F 11 "0603" H 9700 1300 60  0001 C CNN "PACKAGE"
+F 11 "FERRITE FBMH1608 0603" H 9700 1300 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 9700 1300 60  0001 C CNN "PACKAGE"
 	1    9700 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C8
+U 1 1 5463DE10
+P 3250 7050
+F 0 "C8" H 3275 7100 30  0000 L CNN
+F 1 "22pF" H 3275 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 3250 7050 60  0001 C CNN
+F 3 "" H 3250 7050 60  0000 C CNN
+F 4 "c" H 3250 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 3250 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 3250 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 3250 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 3250 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3250 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3250 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 3250 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3250 7050 60  0001 C CNN "PACKAGE"
+	1    3250 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C9
+U 1 1 5463DE98
+P 3400 7050
+F 0 "C9" H 3425 7100 30  0000 L CNN
+F 1 "22pF" H 3425 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 3400 7050 60  0001 C CNN
+F 3 "" H 3400 7050 60  0000 C CNN
+F 4 "c" H 3400 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 3400 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 3400 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 3400 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 3400 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3400 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3400 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 3400 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3400 7050 60  0001 C CNN "PACKAGE"
+	1    3400 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C10
+U 1 1 5463DF21
+P 3550 7050
+F 0 "C10" H 3575 7100 30  0000 L CNN
+F 1 "22pF" H 3575 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 3550 7050 60  0001 C CNN
+F 3 "" H 3550 7050 60  0000 C CNN
+F 4 "c" H 3550 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 3550 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 3550 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 3550 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 3550 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3550 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3550 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 3550 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3550 7050 60  0001 C CNN "PACKAGE"
+	1    3550 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C11
+U 1 1 5463DFAB
+P 3700 7050
+F 0 "C11" H 3725 7100 30  0000 L CNN
+F 1 "22pF" H 3725 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 3700 7050 60  0001 C CNN
+F 3 "" H 3700 7050 60  0000 C CNN
+F 4 "c" H 3700 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 3700 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 3700 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 3700 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 3700 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3700 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3700 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 3700 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3700 7050 60  0001 C CNN "PACKAGE"
+	1    3700 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C12
+U 1 1 5463E036
+P 3850 7050
+F 0 "C12" H 3875 7100 30  0000 L CNN
+F 1 "22pF" H 3875 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 3850 7050 60  0001 C CNN
+F 3 "" H 3850 7050 60  0000 C CNN
+F 4 "c" H 3850 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 3850 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 3850 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 3850 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 3850 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3850 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3850 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 3850 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 3850 7050 60  0001 C CNN "PACKAGE"
+	1    3850 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C13
+U 1 1 5463E0C2
+P 4000 7050
+F 0 "C13" H 4025 7100 30  0000 L CNN
+F 1 "22pF" H 4025 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4000 7050 60  0001 C CNN
+F 3 "" H 4000 7050 60  0000 C CNN
+F 4 "c" H 4000 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4000 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4000 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4000 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4000 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4000 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4000 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4000 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4000 7050 60  0001 C CNN "PACKAGE"
+	1    4000 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C14
+U 1 1 5463E14F
+P 4150 7050
+F 0 "C14" H 4175 7100 30  0000 L CNN
+F 1 "22pF" H 4175 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4150 7050 60  0001 C CNN
+F 3 "" H 4150 7050 60  0000 C CNN
+F 4 "c" H 4150 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4150 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4150 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4150 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4150 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4150 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4150 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4150 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4150 7050 60  0001 C CNN "PACKAGE"
+	1    4150 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C15
+U 1 1 5463E1DD
+P 4300 7050
+F 0 "C15" H 4325 7100 30  0000 L CNN
+F 1 "22pF" H 4325 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4300 7050 60  0001 C CNN
+F 3 "" H 4300 7050 60  0000 C CNN
+F 4 "c" H 4300 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4300 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4300 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4300 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4300 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4300 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4300 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4300 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4300 7050 60  0001 C CNN "PACKAGE"
+	1    4300 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C16
+U 1 1 5463E26C
+P 4450 7050
+F 0 "C16" H 4475 7100 30  0000 L CNN
+F 1 "22pF" H 4475 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4450 7050 60  0001 C CNN
+F 3 "" H 4450 7050 60  0000 C CNN
+F 4 "c" H 4450 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4450 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4450 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4450 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4450 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4450 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4450 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4450 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4450 7050 60  0001 C CNN "PACKAGE"
+	1    4450 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C17
+U 1 1 5463E2FC
+P 4600 7050
+F 0 "C17" H 4625 7100 30  0000 L CNN
+F 1 "22pF" H 4625 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4600 7050 60  0001 C CNN
+F 3 "" H 4600 7050 60  0000 C CNN
+F 4 "c" H 4600 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4600 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4600 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4600 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4600 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4600 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4600 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4600 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4600 7050 60  0001 C CNN "PACKAGE"
+	1    4600 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C19
+U 1 1 5463E38D
+P 4750 7050
+F 0 "C19" H 4775 7100 30  0000 L CNN
+F 1 "22pF" H 4775 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4750 7050 60  0001 C CNN
+F 3 "" H 4750 7050 60  0000 C CNN
+F 4 "c" H 4750 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4750 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4750 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4750 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4750 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4750 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4750 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4750 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4750 7050 60  0001 C CNN "PACKAGE"
+	1    4750 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C20
+U 1 1 5463E41F
+P 4900 7050
+F 0 "C20" H 4925 7100 30  0000 L CNN
+F 1 "22pF" H 4925 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 4900 7050 60  0001 C CNN
+F 3 "" H 4900 7050 60  0000 C CNN
+F 4 "c" H 4900 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 4900 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 4900 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 4900 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 4900 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4900 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4900 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 4900 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 4900 7050 60  0001 C CNN "PACKAGE"
+	1    4900 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C21
+U 1 1 5463E4B2
+P 5050 7050
+F 0 "C21" H 5075 7100 30  0000 L CNN
+F 1 "22pF" H 5075 7000 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 5050 7050 60  0001 C CNN
+F 3 "" H 5050 7050 60  0000 C CNN
+F 4 "c" H 5050 7050 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 5050 7050 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 5050 7050 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 5050 7050 60  0001 C CNN "KITTING"
+F 8 "Value" H 5050 7050 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 5050 7050 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 5050 7050 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 5050 7050 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5050 7050 60  0001 C CNN "PACKAGE"
+	1    5050 7050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C23
+U 1 1 54641811
+P 5800 1950
+F 0 "C23" H 5825 2000 30  0000 L CNN
+F 1 "22pF" H 5825 1900 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 5800 1950 60  0001 C CNN
+F 3 "" H 5800 1950 60  0000 C CNN
+F 4 "c" H 5800 1950 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 5800 1950 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 5800 1950 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 5800 1950 60  0001 C CNN "KITTING"
+F 8 "Value" H 5800 1950 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 5800 1950 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 5800 1950 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 5800 1950 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5800 1950 60  0001 C CNN "PACKAGE"
+	1    5800 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Csmall C22
+U 1 1 54641FFA
+P 5550 1950
+F 0 "C22" H 5575 2000 30  0000 L CNN
+F 1 "22pF" H 5575 1900 30  0000 L CNN
+F 2 "SMD_Packages:SMD-0603" H 5550 1950 60  0001 C CNN
+F 3 "" H 5550 1950 60  0000 C CNN
+F 4 "c" H 5550 1950 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 5550 1950 60  0001 C CNN "SBAPN"
+F 6 "GRM1885C1H220FA01J" H 5550 1950 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 5550 1950 60  0001 C CNN "KITTING"
+F 8 "Value" H 5550 1950 60  0001 C CNN "KITTING_D"
+F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 5550 1950 60  0001 C CNN "LINK"
+F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 5550 1950 60  0001 C CNN "LINK_PAGE"
+F 11 "CAP 22pF 0603" H 5550 1950 60  0001 C CNN "DESCRIPTION"
+F 12 "0603" H 5550 1950 60  0001 C CNN "PACKAGE"
+	1    5550 1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB_MICRO_OUT U9
+U 1 1 5466207D
+P 8450 5250
+F 0 "U9" H 8400 4850 60  0000 C CNN
+F 1 "USB_MICRO_OUT" H 8450 5450 60  0000 C CNN
+F 2 "apro_lib:MICRO_USB" H 8200 5650 60  0001 C CNN
+F 3 "" H 8200 5650 60  0000 C CNN
+F 4 "c" H 8450 5250 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 8450 5250 60  0001 C CNN "SBAPN"
+F 6 "0473461001" H 8450 5250 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 8450 5250 60  0001 C CNN "KITTING"
+F 8 "Value" H 8450 5250 60  0001 C CNN "KITTING_D"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8450 5250 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8450 5250 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 8450 5250 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 8450 5250 60  0001 C CNN "PACKAGE"
+	1    8450 5250
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB_MICRO_OUT U16
+U 1 1 546627B7
+P 10900 5200
+F 0 "U16" H 10850 4800 60  0000 C CNN
+F 1 "USB_MICRO_OUT" H 10750 5400 60  0000 C CNN
+F 2 "apro_lib:MICRO_USB" H 10650 5600 60  0001 C CNN
+F 3 "" H 10650 5600 60  0000 C CNN
+F 4 "c" H 10900 5200 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 10900 5200 60  0001 C CNN "SBAPN"
+F 6 "0473461001" H 10900 5200 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 10900 5200 60  0001 C CNN "KITTING"
+F 8 "Value" H 10900 5200 60  0001 C CNN "KITTING_D"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 5200 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 5200 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 10900 5200 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 10900 5200 60  0001 C CNN "PACKAGE"
+	1    10900 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB_MICRO_OUT U14
+U 1 1 54662C1B
+P 10900 2750
+F 0 "U14" H 10850 2350 60  0000 C CNN
+F 1 "USB_MICRO_OUT" H 10750 2950 60  0000 C CNN
+F 2 "apro_lib:MICRO_USB" H 10650 3150 60  0001 C CNN
+F 3 "" H 10650 3150 60  0000 C CNN
+F 4 "c" H 10900 2750 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 10900 2750 60  0001 C CNN "SBAPN"
+F 6 "0473461001" H 10900 2750 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 10900 2750 60  0001 C CNN "KITTING"
+F 8 "Value" H 10900 2750 60  0001 C CNN "KITTING_D"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 2750 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 2750 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 10900 2750 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 10900 2750 60  0001 C CNN "PACKAGE"
+	1    10900 2750
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB_MICRO_OUT U13
+U 1 1 546630B9
+P 10900 1250
+F 0 "U13" H 10850 850 60  0000 C CNN
+F 1 "USB_MICRO_OUT" H 10750 1450 60  0000 C CNN
+F 2 "apro_lib:MICRO_USB" H 10650 1650 60  0001 C CNN
+F 3 "" H 10650 1650 60  0000 C CNN
+F 4 "c" H 10900 1250 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 10900 1250 60  0001 C CNN "SBAPN"
+F 6 "0473461001" H 10900 1250 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 10900 1250 60  0001 C CNN "KITTING"
+F 8 "Value" H 10900 1250 60  0001 C CNN "KITTING_D"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 1250 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 1250 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 10900 1250 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 10900 1250 60  0001 C CNN "PACKAGE"
+	1    10900 1250
+	1    0    0    -1  
+$EndComp
+$Comp
+L USB_MICRO_OUT U15
+U 1 1 54665154
+P 10900 3700
+F 0 "U15" H 10850 3300 60  0000 C CNN
+F 1 "USB_MICRO_OUT" H 10750 3900 60  0000 C CNN
+F 2 "apro_lib:MICRO_USB" H 10650 4100 60  0001 C CNN
+F 3 "" H 10650 4100 60  0000 C CNN
+F 4 "c" H 10900 3700 60  0001 C CNN "SUPPLIER"
+F 5 "Value" H 10900 3700 60  0001 C CNN "SBAPN"
+F 6 "0473461001" H 10900 3700 60  0001 C CNN "MFRPN"
+F 7 "tape-with-leader" H 10900 3700 60  0001 C CNN "KITTING"
+F 8 "Value" H 10900 3700 60  0001 C CNN "KITTING_D"
+F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 3700 60  0001 C CNN "LINK"
+F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 3700 60  0001 C CNN "LINK_PAGE"
+F 11 "MICROUSB 0473461001 SMD" H 10900 3700 60  0001 C CNN "DESCRIPTION"
+F 12 "SMD" H 10900 3700 60  0001 C CNN "PACKAGE"
+	1    10900 3700
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC
