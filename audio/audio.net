@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/muniza/kicad/sd/audio/audio.sch)
-    (date "Wed 12 Nov 2014 06:17:28 PM EST")
+    (date "Fri 14 Nov 2014 05:56:17 AM EST")
     (tool "Eeschema (2014-10-19 BZR 5206)-product"))
   (components
     (comp (ref L1)
@@ -118,7 +118,7 @@
       (tstamp 5417B5A1))
     (comp (ref U3)
       (value MIC)
-      (footprint MIC:MIC)
+      (footprint apro-lib:MIC)
       (fields
         (field (name SUPPLIER) c)
         (field (name SBAPN) Value)
@@ -134,7 +134,7 @@
       (tstamp 5417C547))
     (comp (ref X1)
       (value 6MHz)
-      (footprint MIC:FOX6MHZ)
+      (footprint apro-lib:FOX6MHZ)
       (fields
         (field (name SUPPLIER) c)
         (field (name SBAPN) Value)
@@ -196,6 +196,7 @@
       (tstamp 542BA97D))
     (comp (ref U4)
       (value TPA2017D2)
+      (footprint apro-lib:TPA2017D2)
       (fields
         (field (name SUPPLIER) c)
         (field (name SBAPN) Value)
@@ -972,13 +973,6 @@
       (pins
         (pin (num 1) (name P1) (type passive))
         (pin (num 2) (name P2) (type passive))))
-    (libpart (lib usb_hub) (part FERRITE)
-      (fields
-        (field (name Reference) L)
-        (field (name Value) FERRITE))
-      (pins
-        (pin (num 1) (name 1) (type input))
-        (pin (num 2) (name 2) (type input))))
     (libpart (lib audio) (part MIC)
       (fields
         (field (name Reference) U)
@@ -987,6 +981,13 @@
         (pin (num 1) (name OUT) (type input))
         (pin (num 2) (name GND) (type input))
         (pin (num 3) (name VDD) (type input))))
+    (libpart (lib usb_hub) (part FERRITE)
+      (fields
+        (field (name Reference) L)
+        (field (name Value) FERRITE))
+      (pins
+        (pin (num 1) (name 1) (type input))
+        (pin (num 2) (name 2) (type input))))
     (libpart (lib audio) (part PCM2912A)
       (fields
         (field (name Reference) U)
@@ -1024,17 +1025,6 @@
         (pin (num 30) (name MMUTE) (type input))
         (pin (num 31) (name ~REC) (type input))
         (pin (num 32) (name ~PLAY) (type input))))
-    (libpart (lib usb_hub) (part USB_A_MALE)
-      (fields
-        (field (name Reference) U)
-        (field (name Value) USB_A_MALE))
-      (pins
-        (pin (num 1) (name +5V) (type input))
-        (pin (num 2) (name D-) (type input))
-        (pin (num 3) (name D+) (type input))
-        (pin (num 4) (name GND) (type output))
-        (pin (num 5) (name SHD1) (type input))
-        (pin (num 6) (name SHD2) (type input))))
     (libpart (lib audio) (part TPA2017D2)
       (fields
         (field (name Reference) U)
@@ -1060,16 +1050,27 @@
         (pin (num 18) (name EN) (type input))
         (pin (num 19) (name ACG2) (type input))
         (pin (num 20) (name NC) (type input))
-        (pin (num 21) (name THR) (type input)))))
+        (pin (num 21) (name THR) (type input))))
+    (libpart (lib usb_hub) (part USB_A_MALE)
+      (fields
+        (field (name Reference) U)
+        (field (name Value) USB_A_MALE))
+      (pins
+        (pin (num 1) (name +5V) (type input))
+        (pin (num 2) (name D-) (type input))
+        (pin (num 3) (name D+) (type input))
+        (pin (num 4) (name GND) (type output))
+        (pin (num 5) (name SHD1) (type input))
+        (pin (num 6) (name SHD2) (type input)))))
   (libraries
     (library (logical device)
       (uri /usr/local/share/kicad/library/device.lib))
     (library (logical conn)
       (uri /usr/local/share/kicad/library/conn.lib))
-    (library (logical audio)
-      (uri /home/muniza/kicad/sd/audio/audio.lib))
     (library (logical usb_hub)
-      (uri /home/muniza/kicad/sd/apro_lib/usb_hub.lib)))
+      (uri /home/muniza/kicad/sd/apro_lib/usb_hub.lib))
+    (library (logical audio)
+      (uri /home/muniza/kicad/sd/audio/audio.lib)))
   (nets
     (net (code 1) (name "Net-(JP10-Pad2)")
       (node (ref JP10) (pin 2))
