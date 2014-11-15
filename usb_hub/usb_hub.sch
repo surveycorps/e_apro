@@ -66,6 +66,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf" H 1900 4500 60  0001 C CNN 
 F 10 "http://www.ti.com/lit/ds/symlink/tusb2077a.pdf#page=17" H 1900 4500 60  0001 C CNN "LINK_PAGE"
 F 11 "IC TUSB2077A TQFP-48" H 1900 4500 60  0001 C CNN "DESCRIPTION"
 F 12 "TQFP-48" H 1900 4500 60  0001 C CNN "PACKAGE"
+F 13 "296-37871-6-ND" H 1900 4500 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 1900 4500 60  0001 C CNN "MOUSER"
 	1    1900 4500
 	1    0    0    -1  
 $EndComp
@@ -86,6 +88,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/tps76333.pdf" H 3950 1050 60  0001 C CNN "
 F 10 "http://www.ti.com/lit/ds/symlink/tps76333.pdf#page=23" H 3950 1050 60  0001 C CNN "LINK_PAGE"
 F 11 "IC TPS76333 SOT-23-5" H 3950 1050 60  0001 C CNN "DESCRIPTION"
 F 12 "SOT-23-5" H 3950 1050 60  0001 C CNN "PACKAGE"
+F 13 "296-11021-6-ND" H 3950 1050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3950 1050 60  0001 C CNN "MOUSER"
 	1    3950 1050
 	1    0    0    -1  
 $EndComp
@@ -106,6 +110,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf" H 1400 1350 60  0001 C CNN "
 F 10 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf#page=47" H 1400 1350 60  0001 C CNN "LINK_PAGE"
 F 11 "IC 2044B SOIC-16" H 1400 1350 60  0001 C CNN "DESCRIPTION"
 F 12 "SOIC-16" H 1400 1350 60  0001 C CNN "PACKAGE"
+F 13 "296-26909-6-ND" H 1400 1350 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 1400 1350 60  0001 C CNN "MOUSER"
 	1    1400 1350
 	1    0    0    -1  
 $EndComp
@@ -141,6 +147,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 7750 230
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 7750 2300 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 7750 2300 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 7750 2300 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 7750 2300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7750 2300 60  0001 C CNN "MOUSER"
 	1    7750 2300
 	1    0    0    -1  
 $EndComp
@@ -378,6 +386,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1050 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 1050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 1050 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 1050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 1050 60  0001 C CNN "MOUSER"
 	1    2600 1050
 	0    1    1    0   
 $EndComp
@@ -429,6 +439,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf" H 1400 2700 60  0001 C CNN "
 F 10 "http://www.ti.com/lit/ds/symlink/tps2044b.pdf#page=47" H 1400 2700 60  0001 C CNN "LINK_PAGE"
 F 11 "IC 2044B SOIC-16" H 1400 2700 60  0001 C CNN "DESCRIPTION"
 F 12 "SOIC-16" H 1400 2700 60  0001 C CNN "PACKAGE"
+F 13 "296-26909-6-ND" H 1400 2700 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 1400 2700 60  0001 C CNN "MOUSER"
 	1    1400 2700
 	1    0    0    -1  
 $EndComp
@@ -507,6 +519,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5650 950 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1k 0603" H 5650 950 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5650 950 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.0KDDKR-ND" H 5650 950 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5650 950 60  0001 C CNN "MOUSER"
 	1    5650 950 
 	0    1    1    0   
 $EndComp
@@ -527,6 +541,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 5050 1200 60  0001 C C
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 5050 1200 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 5050 1200 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 5050 1200 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 5050 1200 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 5050 1200 60  0001 C CNN "MOUSER"
 	1    5050 1200
 	-1   0    0    1   
 $EndComp
@@ -594,6 +610,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2700 7300 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1.5k 0603" H 2700 7300 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2700 7300 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.5KDDKR-ND" H 2700 7300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2700 7300 60  0001 C CNN "MOUSER"
 	1    2700 7300
 	1    0    0    -1  
 $EndComp
@@ -614,6 +632,8 @@ F 9 "http://foxonline.com/pdfs/fq1045a.pdf" H 1850 7300 60  0001 C CNN "LINK"
 F 10 "http://foxonline.com/pdfs/fq1045a.pdf#page=1" H 1850 7300 60  0001 C CNN "LINK_PAGE"
 F 11 "XTAL 6MHz SMD" H 1850 7300 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 1850 7300 60  0001 C CNN "PACKAGE"
+F 13 "631-1035-6-ND" H 1850 7300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 1850 7300 60  0001 C CNN "MOUSER"
 	1    1850 7300
 	-1   0    0    1   
 $EndComp
@@ -662,6 +682,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3100 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3100 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 3100 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3100 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 3100 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3100 7050 60  0001 C CNN "MOUSER"
 	1    3100 7050
 	1    0    0    -1  
 $EndComp
@@ -682,6 +704,8 @@ F 9 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0
 F 10 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0-01.pdf#page=26" H 1500 7400 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 33pF 0603" H 1500 7400 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 1500 7400 60  0001 C CNN "PACKAGE"
+F 13 "490-7611-6-ND" H 1500 7400 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 1500 7400 60  0001 C CNN "MOUSER"
 	1    1500 7400
 	1    0    0    -1  
 $EndComp
@@ -713,6 +737,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 505
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 5050 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 5050 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5050 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 5050 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5050 5150 60  0001 C CNN "MOUSER"
 	1    5050 5150
 	-1   0    0    1   
 $EndComp
@@ -1863,6 +1889,8 @@ F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5900 750
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5900 750 60  0001 C CNN "LINK_PAGE"
 F 11 "LED APT1608 0603" H 5900 750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5900 750 60  0001 C CNN "PACKAGE"
+F 13 "754-1121-6-ND" H 5900 750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5900 750 60  0001 C CNN "MOUSER"
 	1    5900 750 
 	1    0    0    -1  
 $EndComp
@@ -1943,6 +1971,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 900 60  
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 900 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 9400 900 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 9400 900 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 9400 900 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9400 900 60  0001 C CNN "MOUSER"
 	1    9400 900 
 	1    0    0    -1  
 $EndComp
@@ -2066,6 +2096,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 7800 2850 60  0001 C CNN "L
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 7800 2850 60  0001 C CNN "LINK_PAGE"
 F 11 "IC SN75240 TSSOP-8" H 7800 2850 60  0001 C CNN "DESCRIPTION"
 F 12 "TSSOP-8" H 7800 2850 60  0001 C CNN "PACKAGE"
+F 13 "296-6596-6-ND" H 7800 2850 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7800 2850 60  0001 C CNN "MOUSER"
 	1    7800 2850
 	1    0    0    -1  
 $EndComp
@@ -2086,6 +2118,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 555
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 5550 1300 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 5550 1300 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5550 1300 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 5550 1300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5550 1300 60  0001 C CNN "MOUSER"
 	1    5550 1300
 	-1   0    0    1   
 $EndComp
@@ -2106,6 +2140,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 580
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 5800 1350 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 5800 1350 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5800 1350 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 5800 1350 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5800 1350 60  0001 C CNN "MOUSER"
 	1    5800 1350
 	-1   0    0    1   
 $EndComp
@@ -2132,6 +2168,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf" H 750 1200 60
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf#page=45" H 750 1200 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 1uF 0603" H 750 1200 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 750 1200 60  0001 C CNN "PACKAGE"
+F 13 "587-1242-6-ND" H 750 1200 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 750 1200 60  0001 C CNN "MOUSER"
 	1    750  1200
 	1    0    0    -1  
 $EndComp
@@ -2152,6 +2190,8 @@ F 9 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71C104KA01
 F 10 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R71C104KA01-01.pdf#page=26" H 1000 6650 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP .1uF 0603" H 1000 6650 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 1000 6650 60  0001 C CNN "PACKAGE"
+F 13 "490-1532-6-ND" H 1000 6650 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 1000 6650 60  0001 C CNN "MOUSER"
 	1    1000 6650
 	1    0    0    -1  
 $EndComp
@@ -2178,6 +2218,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 4650 1150 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 4650 1150 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 10uF 1206" H 4650 1150 60  0001 C CNN "DESCRIPTION"
 F 12 "1206" H 4650 1150 60  0001 C CNN "PACKAGE"
+F 13 "1276-2876-6-ND" H 4650 1150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4650 1150 60  0001 C CNN "MOUSER"
 	1    4650 1150
 	1    0    0    -1  
 $EndComp
@@ -2202,6 +2244,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8800 2250 60  0001 C C
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8800 2250 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 8800 2250 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 8800 2250 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 8800 2250 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 8800 2250 60  0001 C CNN "MOUSER"
 	1    8800 2250
 	1    0    0    -1  
 $EndComp
@@ -2222,6 +2266,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8450 3750 60  0001 C C
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8450 3750 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 8450 3750 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 8450 3750 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 8450 3750 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 8450 3750 60  0001 C CNN "MOUSER"
 	1    8450 3750
 	1    0    0    -1  
 $EndComp
@@ -2242,6 +2288,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1200 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 1200 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 1200 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 1200 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 1200 60  0001 C CNN "MOUSER"
 	1    2600 1200
 	0    1    1    0   
 $EndComp
@@ -2262,6 +2310,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1350 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 1350 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 1350 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 1350 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 1350 60  0001 C CNN "MOUSER"
 	1    2600 1350
 	0    1    1    0   
 $EndComp
@@ -2282,6 +2332,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 1500 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 1500 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 1500 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 1500 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 1500 60  0001 C CNN "MOUSER"
 	1    2600 1500
 	0    1    1    0   
 $EndComp
@@ -2302,6 +2354,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 2450 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 2450 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 2450 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 2450 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 2450 60  0001 C CNN "MOUSER"
 	1    2600 2450
 	0    1    1    0   
 $EndComp
@@ -2322,6 +2376,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 2600 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 2600 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 2600 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 2600 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 2600 60  0001 C CNN "MOUSER"
 	1    2600 2600
 	0    1    1    0   
 $EndComp
@@ -2342,6 +2398,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 2600 2750 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 2600 2750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2600 2750 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 2600 2750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2600 2750 60  0001 C CNN "MOUSER"
 	1    2600 2750
 	0    1    1    0   
 $EndComp
@@ -2362,6 +2420,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 2600 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 2600 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 2600 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 2600 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 2600 60  0001 C CNN "MOUSER"
 	1    4850 2600
 	0    1    1    0   
 $EndComp
@@ -2382,6 +2442,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 2750 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 2750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 2750 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 2750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 2750 60  0001 C CNN "MOUSER"
 	1    4850 2750
 	0    1    1    0   
 $EndComp
@@ -2402,6 +2464,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 2900 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 2900 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 2900 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 2900 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 2900 60  0001 C CNN "MOUSER"
 	1    4850 2900
 	0    1    1    0   
 $EndComp
@@ -2422,6 +2486,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3050 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3050 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3050 60  0001 C CNN "MOUSER"
 	1    4850 3050
 	0    1    1    0   
 $EndComp
@@ -2442,6 +2508,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3200 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3200 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3200 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3200 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3200 60  0001 C CNN "MOUSER"
 	1    4850 3200
 	0    1    1    0   
 $EndComp
@@ -2462,6 +2530,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3350 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3350 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3350 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3350 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3350 60  0001 C CNN "MOUSER"
 	1    4850 3350
 	0    1    1    0   
 $EndComp
@@ -2482,6 +2552,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3500 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3500 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3500 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3500 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3500 60  0001 C CNN "MOUSER"
 	1    4850 3500
 	0    1    1    0   
 $EndComp
@@ -2502,6 +2574,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3650 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3650 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3650 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3650 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3650 60  0001 C CNN "MOUSER"
 	1    4850 3650
 	0    1    1    0   
 $EndComp
@@ -2522,6 +2596,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3800 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3800 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3800 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3800 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3800 60  0001 C CNN "MOUSER"
 	1    4850 3800
 	0    1    1    0   
 $EndComp
@@ -2542,6 +2618,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 3950 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 3950 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 3950 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 3950 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 3950 60  0001 C CNN "MOUSER"
 	1    4850 3950
 	0    1    1    0   
 $EndComp
@@ -2562,6 +2640,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4100 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 4100 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 4100 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 4100 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 4100 60  0001 C CNN "MOUSER"
 	1    4850 4100
 	0    1    1    0   
 $EndComp
@@ -2582,6 +2662,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4250 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 4250 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 4250 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 4250 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 4250 60  0001 C CNN "MOUSER"
 	1    4850 4250
 	0    1    1    0   
 $EndComp
@@ -2602,6 +2684,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4400 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 4400 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 4400 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 4400 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 4400 60  0001 C CNN "MOUSER"
 	1    4850 4400
 	0    1    1    0   
 $EndComp
@@ -2622,6 +2706,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 4850 4550 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 15k 0603" H 4850 4550 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4850 4550 60  0001 C CNN "PACKAGE"
+F 13 "RHM15KDDKR-ND" H 4850 4550 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4850 4550 60  0001 C CNN "MOUSER"
 	1    4850 4550
 	0    1    1    0   
 $EndComp
@@ -2642,6 +2728,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 490
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4900 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4900 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4900 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4900 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4900 5150 60  0001 C CNN "MOUSER"
 	1    4900 5150
 	-1   0    0    1   
 $EndComp
@@ -2662,6 +2750,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 475
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4750 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4750 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4750 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4750 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4750 5150 60  0001 C CNN "MOUSER"
 	1    4750 5150
 	-1   0    0    1   
 $EndComp
@@ -2682,6 +2772,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 460
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4600 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4600 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4600 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4600 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4600 5150 60  0001 C CNN "MOUSER"
 	1    4600 5150
 	-1   0    0    1   
 $EndComp
@@ -2702,6 +2794,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 445
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4450 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4450 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4450 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4450 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4450 5150 60  0001 C CNN "MOUSER"
 	1    4450 5150
 	-1   0    0    1   
 $EndComp
@@ -2722,6 +2816,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 430
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4300 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4300 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4300 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4300 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4300 5150 60  0001 C CNN "MOUSER"
 	1    4300 5150
 	-1   0    0    1   
 $EndComp
@@ -2742,6 +2838,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 415
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4150 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4150 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4150 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4150 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4150 5150 60  0001 C CNN "MOUSER"
 	1    4150 5150
 	-1   0    0    1   
 $EndComp
@@ -2762,6 +2860,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 400
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 4000 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 4000 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4000 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 4000 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4000 5150 60  0001 C CNN "MOUSER"
 	1    4000 5150
 	-1   0    0    1   
 $EndComp
@@ -2782,6 +2882,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 385
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3850 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 3850 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3850 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 3850 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3850 5150 60  0001 C CNN "MOUSER"
 	1    3850 5150
 	-1   0    0    1   
 $EndComp
@@ -2802,6 +2904,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 370
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3700 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 3700 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3700 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 3700 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3700 5150 60  0001 C CNN "MOUSER"
 	1    3700 5150
 	-1   0    0    1   
 $EndComp
@@ -2822,6 +2926,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 355
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3550 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 3550 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3550 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 3550 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3550 5150 60  0001 C CNN "MOUSER"
 	1    3550 5150
 	-1   0    0    1   
 $EndComp
@@ -2842,6 +2948,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 340
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3400 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 3400 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3400 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 3400 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3400 5150 60  0001 C CNN "MOUSER"
 	1    3400 5150
 	-1   0    0    1   
 $EndComp
@@ -2862,6 +2970,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 325
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3250 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 3250 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3250 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 3250 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3250 5150 60  0001 C CNN "MOUSER"
 	1    3250 5150
 	-1   0    0    1   
 $EndComp
@@ -2882,6 +2992,8 @@ F 9 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf" H 310
 F 10 "http://industrial.panasonic.com/www-data/pdf/AOA0000/AOA0000PE36.pdf#page=19" H 3100 5150 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 30R 0603" H 3100 5150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3100 5150 60  0001 C CNN "PACKAGE"
+F 13 "RHM30DDKR-ND" H 3100 5150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3100 5150 60  0001 C CNN "MOUSER"
 	1    3100 5150
 	-1   0    0    1   
 $EndComp
@@ -2902,6 +3014,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf" H 750 2550 60
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf#page=45" H 750 2550 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 1uF 0603" H 750 2550 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 750 2550 60  0001 C CNN "PACKAGE"
+F 13 "587-1242-6-ND" H 750 2550 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 750 2550 60  0001 C CNN "MOUSER"
 	1    750  2550
 	1    0    0    -1  
 $EndComp
@@ -2922,6 +3036,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf" H 3100 1150 6
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/mlcc_all_e.pdf#page=45" H 3100 1150 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 1uF 0603" H 3100 1150 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3100 1150 60  0001 C CNN "PACKAGE"
+F 13 "587-1242-6-ND" H 3100 1150 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3100 1150 60  0001 C CNN "MOUSER"
 	1    3100 1150
 	1    0    0    -1  
 $EndComp
@@ -2942,6 +3058,8 @@ F 9 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0
 F 10 "http://search.murata.co.jp/Ceramy/image/img/A01X/G101/ENG/GRM188R60J226MEA0-01.pdf#page=26" H 2200 7400 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 33pF 0603" H 2200 7400 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 2200 7400 60  0001 C CNN "PACKAGE"
+F 13 "490-7611-6-ND" H 2200 7400 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 2200 7400 60  0001 C CNN "MOUSER"
 	1    2200 7400
 	1    0    0    -1  
 $EndComp
@@ -2962,6 +3080,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7550 1200 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7550 1200 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 10uF 1206" H 7550 1200 60  0001 C CNN "DESCRIPTION"
 F 12 "1206" H 7550 1200 60  0001 C CNN "PACKAGE"
+F 13 "1276-2876-6-ND" H 7550 1200 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7550 1200 60  0001 C CNN "MOUSER"
 	1    7550 1200
 	1    0    0    -1  
 $EndComp
@@ -2982,6 +3102,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 6100 1400 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1.5k 0603" H 6100 1400 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 6100 1400 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.5KDDKR-ND" H 6100 1400 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 6100 1400 60  0001 C CNN "MOUSER"
 	1    6100 1400
 	1    0    0    -1  
 $EndComp
@@ -3002,6 +3124,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5400 6750 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1k 0603" H 5400 6750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5400 6750 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.0KDDKR-ND" H 5400 6750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5400 6750 60  0001 C CNN "MOUSER"
 	1    5400 6750
 	1    0    0    -1  
 $EndComp
@@ -3022,6 +3146,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5650 6750 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1k 0603" H 5650 6750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5650 6750 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.0KDDKR-ND" H 5650 6750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5650 6750 60  0001 C CNN "MOUSER"
 	1    5650 6750
 	1    0    0    -1  
 $EndComp
@@ -3042,6 +3168,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 5900 6750 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1k 0603" H 5900 6750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5900 6750 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.0KDDKR-ND" H 5900 6750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5900 6750 60  0001 C CNN "MOUSER"
 	1    5900 6750
 	1    0    0    -1  
 $EndComp
@@ -3062,6 +3190,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 6200 6450 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1k 0603" H 6200 6450 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 6200 6450 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.0KDDKR-ND" H 6200 6450 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 6200 6450 60  0001 C CNN "MOUSER"
 	1    6200 6450
 	1    0    0    -1  
 $EndComp
@@ -3082,6 +3212,8 @@ F 9 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip
 F 10 "http://rohmfs.rohm.com/en/products/databook/datasheet/passive/resistor/chip_resistor/esr.pdf#page=2" H 7950 1450 60  0001 C CNN "LINK_PAGE"
 F 11 "RES 1k 0603" H 7950 1450 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 7950 1450 60  0001 C CNN "PACKAGE"
+F 13 "RHM1.0KDDKR-ND" H 7950 1450 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7950 1450 60  0001 C CNN "MOUSER"
 	1    7950 1450
 	0    -1   -1   0   
 $EndComp
@@ -3102,6 +3234,8 @@ F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 8350 110
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 8350 1100 60  0001 C CNN "LINK_PAGE"
 F 11 "LED APT1608 0603" H 8350 1100 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 8350 1100 60  0001 C CNN "PACKAGE"
+F 13 "754-1121-6-ND" H 8350 1100 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 8350 1100 60  0001 C CNN "MOUSER"
 	1    8350 1100
 	0    1    1    0   
 $EndComp
@@ -3122,6 +3256,8 @@ F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5400 725
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5400 7250 60  0001 C CNN "LINK_PAGE"
 F 11 "LED APT1608 0603" H 5400 7250 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5400 7250 60  0001 C CNN "PACKAGE"
+F 13 "754-1121-6-ND" H 5400 7250 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5400 7250 60  0001 C CNN "MOUSER"
 	1    5400 7250
 	0    1    1    0   
 $EndComp
@@ -3142,6 +3278,8 @@ F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5650 725
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5650 7250 60  0001 C CNN "LINK_PAGE"
 F 11 "LED APT1608 0603" H 5650 7250 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5650 7250 60  0001 C CNN "PACKAGE"
+F 13 "754-1121-6-ND" H 5650 7250 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5650 7250 60  0001 C CNN "MOUSER"
 	1    5650 7250
 	0    1    1    0   
 $EndComp
@@ -3162,6 +3300,8 @@ F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 5900 725
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 5900 7250 60  0001 C CNN "LINK_PAGE"
 F 11 "LED APT1608 0603" H 5900 7250 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5900 7250 60  0001 C CNN "PACKAGE"
+F 13 "754-1121-6-ND" H 5900 7250 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5900 7250 60  0001 C CNN "MOUSER"
 	1    5900 7250
 	0    1    1    0   
 $EndComp
@@ -3182,6 +3322,8 @@ F 9 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf" H 6200 695
 F 10 "http://www.kingbrightusa.com/images/catalog/SPEC/APT1608SGC.pdf#page=4" H 6200 6950 60  0001 C CNN "LINK_PAGE"
 F 11 "LED APT1608 0603" H 6200 6950 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 6200 6950 60  0001 C CNN "PACKAGE"
+F 13 "754-1121-6-ND" H 6200 6950 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 6200 6950 60  0001 C CNN "MOUSER"
 	1    6200 6950
 	0    1    1    0   
 $EndComp
@@ -3202,6 +3344,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 7450 4350 60  0001 C CNN "L
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 7450 4350 60  0001 C CNN "LINK_PAGE"
 F 11 "IC SN75240 TSSOP-8" H 7450 4350 60  0001 C CNN "DESCRIPTION"
 F 12 "TSSOP-8" H 7450 4350 60  0001 C CNN "PACKAGE"
+F 13 "296-6596-6-ND" H 7450 4350 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7450 4350 60  0001 C CNN "MOUSER"
 	1    7450 4350
 	1    0    0    -1  
 $EndComp
@@ -3222,6 +3366,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 9850 4300 60  0001 C CNN "L
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 9850 4300 60  0001 C CNN "LINK_PAGE"
 F 11 "IC SN75240 TSSOP-8" H 9850 4300 60  0001 C CNN "DESCRIPTION"
 F 12 "TSSOP-8" H 9850 4300 60  0001 C CNN "PACKAGE"
+F 13 "296-6596-6-ND" H 9850 4300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9850 4300 60  0001 C CNN "MOUSER"
 	1    9850 4300
 	1    0    0    -1  
 $EndComp
@@ -3242,6 +3388,8 @@ F 9 "http://www.ti.com/lit/ds/symlink/sn75240.pdf" H 9850 1850 60  0001 C CNN "L
 F 10 "http://www.ti.com/lit/ds/symlink/sn75240.pdf#page=12" H 9850 1850 60  0001 C CNN "LINK_PAGE"
 F 11 "IC SN75240 TSSOP-8" H 9850 1850 60  0001 C CNN "DESCRIPTION"
 F 12 "TSSOP-8" H 9850 1850 60  0001 C CNN "PACKAGE"
+F 13 "296-6596-6-ND" H 9850 1850 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9850 1850 60  0001 C CNN "MOUSER"
 	1    9850 1850
 	1    0    0    -1  
 $EndComp
@@ -3262,6 +3410,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 2400 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 2400 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 9400 2400 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 9400 2400 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 9400 2400 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9400 2400 60  0001 C CNN "MOUSER"
 	1    9400 2400
 	1    0    0    -1  
 $EndComp
@@ -3282,6 +3432,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7350 1950 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7350 1950 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 7350 1950 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 7350 1950 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 7350 1950 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7350 1950 60  0001 C CNN "MOUSER"
 	1    7350 1950
 	1    0    0    -1  
 $EndComp
@@ -3302,6 +3454,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7000 3400 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7000 3400 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 7000 3400 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 7000 3400 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 7000 3400 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7000 3400 60  0001 C CNN "MOUSER"
 	1    7000 3400
 	1    0    0    -1  
 $EndComp
@@ -3322,6 +3476,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 7000 4900 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 7000 4900 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 7000 4900 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 7000 4900 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 7000 4900 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7000 4900 60  0001 C CNN "MOUSER"
 	1    7000 4900
 	1    0    0    -1  
 $EndComp
@@ -3342,6 +3498,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 3350 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 3350 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 9400 3350 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 9400 3350 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 9400 3350 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9400 3350 60  0001 C CNN "MOUSER"
 	1    9400 3350
 	1    0    0    -1  
 $EndComp
@@ -3362,6 +3520,8 @@ F 9 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf" H 9400 4850 60 
 F 10 "http://www1.futureelectronics.com/doc/SAMSUNG/CLSERIES.pdf#page=17" H 9400 4850 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 100uF 1210" H 9400 4850 60  0001 C CNN "DESCRIPTION"
 F 12 "1210" H 9400 4850 60  0001 C CNN "PACKAGE"
+F 13 "1276-3364-6-ND" H 9400 4850 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9400 4850 60  0001 C CNN "MOUSER"
 	1    9400 4850
 	1    0    0    -1  
 $EndComp
@@ -3382,6 +3542,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 7400 380
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 7400 3800 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 7400 3800 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 7400 3800 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 7400 3800 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7400 3800 60  0001 C CNN "MOUSER"
 	1    7400 3800
 	1    0    0    -1  
 $EndComp
@@ -3402,6 +3564,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 7300 530
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 7300 5300 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 7300 5300 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 7300 5300 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 7300 5300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 7300 5300 60  0001 C CNN "MOUSER"
 	1    7300 5300
 	1    0    0    -1  
 $EndComp
@@ -3422,6 +3586,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 525
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 5250 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 9700 5250 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 9700 5250 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 9700 5250 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9700 5250 60  0001 C CNN "MOUSER"
 	1    9700 5250
 	1    0    0    -1  
 $EndComp
@@ -3442,6 +3608,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 375
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 3750 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 9700 3750 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 9700 3750 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 9700 3750 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9700 3750 60  0001 C CNN "MOUSER"
 	1    9700 3750
 	1    0    0    -1  
 $EndComp
@@ -3462,6 +3630,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 280
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 2800 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 9700 2800 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 9700 2800 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 9700 2800 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9700 2800 60  0001 C CNN "MOUSER"
 	1    9700 2800
 	1    0    0    -1  
 $EndComp
@@ -3482,6 +3652,8 @@ F 9 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf" H 9700 130
 F 10 "http://www.yuden.co.jp/productdata/catalog/en/chipbeads01_e.pdf#page=2" H 9700 1300 60  0001 C CNN "LINK_PAGE"
 F 11 "FERRITE FBMH1608 0603" H 9700 1300 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 9700 1300 60  0001 C CNN "PACKAGE"
+F 13 "587-1743-6-ND" H 9700 1300 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 9700 1300 60  0001 C CNN "MOUSER"
 	1    9700 1300
 	1    0    0    -1  
 $EndComp
@@ -3502,6 +3674,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3250 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3250 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 3250 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3250 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 3250 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3250 7050 60  0001 C CNN "MOUSER"
 	1    3250 7050
 	1    0    0    -1  
 $EndComp
@@ -3522,6 +3696,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3400 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3400 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 3400 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3400 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 3400 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3400 7050 60  0001 C CNN "MOUSER"
 	1    3400 7050
 	1    0    0    -1  
 $EndComp
@@ -3542,6 +3718,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3550 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3550 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 3550 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3550 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 3550 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3550 7050 60  0001 C CNN "MOUSER"
 	1    3550 7050
 	1    0    0    -1  
 $EndComp
@@ -3562,6 +3740,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3700 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3700 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 3700 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3700 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 3700 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3700 7050 60  0001 C CNN "MOUSER"
 	1    3700 7050
 	1    0    0    -1  
 $EndComp
@@ -3582,6 +3762,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 3850 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 3850 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 3850 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 3850 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 3850 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 3850 7050 60  0001 C CNN "MOUSER"
 	1    3850 7050
 	1    0    0    -1  
 $EndComp
@@ -3602,6 +3784,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4000 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4000 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4000 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4000 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4000 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4000 7050 60  0001 C CNN "MOUSER"
 	1    4000 7050
 	1    0    0    -1  
 $EndComp
@@ -3622,6 +3806,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4150 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4150 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4150 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4150 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4150 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4150 7050 60  0001 C CNN "MOUSER"
 	1    4150 7050
 	1    0    0    -1  
 $EndComp
@@ -3642,6 +3828,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4300 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4300 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4300 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4300 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4300 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4300 7050 60  0001 C CNN "MOUSER"
 	1    4300 7050
 	1    0    0    -1  
 $EndComp
@@ -3662,6 +3850,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4450 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4450 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4450 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4450 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4450 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4450 7050 60  0001 C CNN "MOUSER"
 	1    4450 7050
 	1    0    0    -1  
 $EndComp
@@ -3682,6 +3872,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4600 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4600 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4600 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4600 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4600 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4600 7050 60  0001 C CNN "MOUSER"
 	1    4600 7050
 	1    0    0    -1  
 $EndComp
@@ -3702,6 +3894,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4750 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4750 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4750 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4750 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4750 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4750 7050 60  0001 C CNN "MOUSER"
 	1    4750 7050
 	1    0    0    -1  
 $EndComp
@@ -3722,6 +3916,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 4900 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 4900 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 4900 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 4900 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 4900 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 4900 7050 60  0001 C CNN "MOUSER"
 	1    4900 7050
 	1    0    0    -1  
 $EndComp
@@ -3742,6 +3938,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 5050 7050 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 5050 7050 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 5050 7050 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5050 7050 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 5050 7050 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5050 7050 60  0001 C CNN "MOUSER"
 	1    5050 7050
 	1    0    0    -1  
 $EndComp
@@ -3762,6 +3960,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 5800 1950 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 5800 1950 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 5800 1950 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5800 1950 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 5800 1950 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5800 1950 60  0001 C CNN "MOUSER"
 	1    5800 1950
 	1    0    0    -1  
 $EndComp
@@ -3782,6 +3982,8 @@ F 9 "http://www.murata.com/products/catalog/pdf/c02e.pdf" H 5550 1950 60  0001 C
 F 10 "http://www.murata.com/products/catalog/pdf/c02e.pdf#page=176" H 5550 1950 60  0001 C CNN "LINK_PAGE"
 F 11 "CAP 22pF 0603" H 5550 1950 60  0001 C CNN "DESCRIPTION"
 F 12 "0603" H 5550 1950 60  0001 C CNN "PACKAGE"
+F 13 "399-9031-6-ND" H 5550 1950 60  0001 C CNN "DIGIKEY"
+F 14 "Value" H 5550 1950 60  0001 C CNN "MOUSER"
 	1    5550 1950
 	1    0    0    -1  
 $EndComp
@@ -3802,6 +4004,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 8450 5250 60  0001 C C
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 8450 5250 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 8450 5250 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 8450 5250 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 8450 5250 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 8450 5250 60  0001 C CNN "MOUSER"
 	1    8450 5250
 	1    0    0    -1  
 $EndComp
@@ -3822,6 +4026,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 5200 60  0001 C 
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 5200 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 10900 5200 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 10900 5200 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 10900 5200 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 10900 5200 60  0001 C CNN "MOUSER"
 	1    10900 5200
 	1    0    0    -1  
 $EndComp
@@ -3842,6 +4048,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 2750 60  0001 C 
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 2750 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 10900 2750 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 10900 2750 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 10900 2750 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 10900 2750 60  0001 C CNN "MOUSER"
 	1    10900 2750
 	1    0    0    -1  
 $EndComp
@@ -3862,6 +4070,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 1250 60  0001 C 
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 1250 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 10900 1250 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 10900 1250 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 10900 1250 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 10900 1250 60  0001 C CNN "MOUSER"
 	1    10900 1250
 	1    0    0    -1  
 $EndComp
@@ -3882,6 +4092,8 @@ F 9 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf" H 10900 3700 60  0001 C 
 F 10 "http://www.molex.com/pdm_docs/sd/473461001_sd.pdf#page=2" H 10900 3700 60  0001 C CNN "LINK_PAGE"
 F 11 "MICROUSB 0473461001 SMD" H 10900 3700 60  0001 C CNN "DESCRIPTION"
 F 12 "SMD" H 10900 3700 60  0001 C CNN "PACKAGE"
+F 13 "Value" H 10900 3700 60  0001 C CNN "DIGIKEY"
+F 14 "538-47346-1001" H 10900 3700 60  0001 C CNN "MOUSER"
 	1    10900 3700
 	1    0    0    -1  
 $EndComp
